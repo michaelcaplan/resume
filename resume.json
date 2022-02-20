@@ -1,0 +1,275 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Michael Caplan",
+    "label": "Software Development Manager Who Codes",
+    "image": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=600",
+    "email": "michael@eggplant.ws",
+    "phone": "",
+    "url": "https://www.eggplant.ws",
+    "summary": "Mike has been active as a web application developer and designer since the late 90ies, working in the non-profit, university, retail, agricultural, and dental industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.\\n\\nMike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.",
+    "location": {
+      "countryCode": "CA",
+      "address": "Canada",
+      "city": "Wolfville",
+      "postalCode": "B4P1T5",
+      "region": "Nova Scotia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "michael-caplan-40b37a1",
+        "url": "https://www.linkedin.com/in/michael-caplan-40b37a1/"
+      },
+      {
+        "network": "Facebook",
+        "username": "michaelisraelcaplan",
+        "url": "https://www.facebook.com/michaelisraelcaplan"
+      },
+      {
+        "network": "GitHub",
+        "username": "michaelcaplan",
+        "url": "https://github.com/michaelcaplan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Henry Schein",
+      "position": "Software Development Manager",
+      "startDate": "2006-09-30",
+      "highlights": [],
+      "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets.",
+      "url": "https://www.linkedin.com/company/henry-schein/",
+      "location": "Wolfville, NS"
+    },
+    {
+      "name": "Refresh Annapolis Valley",
+      "position": "Founder and Organizational Crew",
+      "startDate": "2012-12-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "Organizing meetups with the local web professionals community",
+      "url": "https://refreshannapolisvalley.org/",
+      "location": "Annapolis Valley, NS"
+    },
+    {
+      "name": "HarvestHand",
+      "position": "Co-Founder & Software Developer",
+      "startDate": "2010-12-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "summary": "HarvestHand is an Internet platform for CSA businesses to communicate with and manage their community of members.\n\nhttp://harvesthand.com/",
+      "url": "",
+      "location": "Kentville, NS"
+    },
+    {
+      "name": "Mom & Pop Media",
+      "position": "Founder and Software Developer",
+      "startDate": "2000-12-31",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "High-Touch Communications",
+      "position": "Software Developer",
+      "startDate": "2005-12-31",
+      "endDate": "2006-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/high-touch-communications/",
+      "location": "Montreal, Canada Area"
+    },
+    {
+      "name": "Le Chateau",
+      "position": "Software Developer",
+      "startDate": "2003-12-31",
+      "endDate": "2005-12-31",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [
+    {
+      "title": "Halifax Startup Weekend First Place Winner 2013",
+      "date": "2013-11-30",
+      "awarder": "Startup Weekend",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zend Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zend Certified Engineer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Henry Schein",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML 5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LAMP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Ray Winkelman",
+      "reference": "I've been working on the HarvestHand web application Michael developed entirely on his own before me. His code base has been easy to navigate. He's made great architectural decisions, and his logic and analytical skills are a telltale sign that he's been a passionate programmer for many years. Thanks for the opportunity to learn from your work Mike!"
+    },
+    {
+      "name": "Rajeev Ramtuhol",
+      "reference": "Michael is a Web Applications developer of the highest caliber. Any company hiring him will see dramatic improvements in quality, security,  extensibility, and performance of their projects. He's also a go-getter who will be on top of the latest power tools and applications required to keep his team on the edge of innovation whenever necessary. Finally, he's  a really sociable and great person to work with."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Creative Computing - Organizer & Mentor",
+      "startDate": "2017-01-31",
+      "summary": "Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.",
+      "url": "https://refreshannapolisvalley.org/project/creative-computing/",
+      "endDate": "2017-06-30"
+    },
+    {
+      "name": "Mashup Weekend Kentville - Event Facilitator",
+      "startDate": "2014-11-30",
+      "summary": "Business building ideation competition ",
+      "url": "http://www.kingscountynews.ca/business/2014/11/15/mashup-weekend-in-kentville-will-be-a-we-3941514.html",
+      "endDate": "2014-11-30"
+    },
+    {
+      "name": "Refresh Food - Organizer and Event Facilitator",
+      "startDate": "2014-01-31",
+      "summary": "What: An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
+      "url": "http://food.refreshannapolisvalley.org/",
+      "endDate": "2014-01-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
