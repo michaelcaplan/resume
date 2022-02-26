@@ -34,12 +34,12 @@
   },
   "work": [
     {
-      "name": "Henry Schein",
+      "name": "Henry Schein One",
       "position": "Software Development Manager",
       "startDate": "2006-09-30",
       "highlights": [],
       "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets.",
-      "url": "https://www.linkedin.com/company/henry-schein/",
+      "url": "https://henryscheinone.com/",
       "location": "Wolfville, NS, CA"
     },
     {
@@ -159,6 +159,13 @@
       "startDate": "2001-01-01",
       "endDate": "2001-12-31",
       "summary": "Project Mole was both an on and off-line project that attempts to tap into an elite group of scenesters by having them do market research for corporations around the globe. In return Moles were given access to exclusive products and events. My role on this project was the development of a flexible web-based survey system that would allow both administrators to design custom surveys and Moles to upload there research findings."
+    },
+    {
+      "name": "Ontario Institute PMAC - Ottawa District",
+      "position": "Web Developer and Designer",
+      "startDate": "1999-10-01",
+      "endDate": "2000-02-01",
+      "summary": "Ontario Institute PMAC— Ottawa District is a national association of supply management professionals. This project included a complete re-conceptualisation of the information architecture and redesign of the District's original web site. Part of the project also included the development of a newsletter web application that facilitates the construction and distribution of rich text email newsletters. I built the newsletter application in PHP, running MySQL on the backend (eventually becoming the \"Carrier Pigeon\" package)."
     }
   ],
   "volunteer": [],
@@ -329,46 +336,81 @@
   "references": [],
   "projects": [
     {
-      "name": "Creative Computing - Organizer & Mentor",
+      "name": "Creative Computing",
+      "entity": "Refresh Annapolis Valley",
       "startDate": "2017-01-31",
       "description": "Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.",
       "url": "https://refreshannapolisvalley.org/project/creative-computing/",
-      "endDate": "2017-06-30"
+      "endDate": "2017-06-30",
+      "roles": [
+        "Organizer",
+        "Mentor"
+      ]
     },
     {
-      "name": "Mashup Weekend Kentville - Event Facilitator",
+      "name": "Mashup Weekend Kentville",
+      "entity": "Mashup Labs",
       "startDate": "2014-11-30",
       "description": "Business building ideation competition ",
       "url": "https://www.saltwire.com/atlantic-canada/business/mashup-weekend-in-kentville-will-be-a-weekend-of-breakneck-business-building-70498/",
-      "endDate": "2014-11-30"
+      "endDate": "2014-11-30",
+      "roles": [
+        "Event Facilitator"
+      ]
     },
     {
-      "name": "Refresh Food - Organizer and Event Facilitator",
+      "name": "Refresh Food",
+      "entity": "Refresh Annapolis Valley",
       "startDate": "2014-01-31",
       "description": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
       "url": "https://refreshannapolisvalley.org/project/f5-food/",
-      "endDate": "2014-01-31"
+      "endDate": "2014-01-31",
+      "roles": [
+        "Organizer",
+        "Event Facilitator"
+      ]
     },
     {
-      "name": "Azur Development - Web Design",
+      "name": "Web Designer",
+      "entity": "Azur Development",
       "description": "Azur Development was a Congolease run development organisation committed to address issues of gender equality, ecology, HIV/AIDS, and information technologies. In conjunction with Block, Street & Building, I redesigned their website to better reflect the work they do.",
       "startDate": "2005-01-01",
-      "endDate": "2005-03-01"
+      "endDate": "2005-03-01",
+      "roles": [
+        "Web Designer"
+      ]
     },
     {
-      "name": "The War & Peace Foundation - Web Design and CMS",
+      "name": "Web Designer",
+      "entity": "The War & Peace Foundation",
       "description": "The War & Peace Foundation was an international NGO committed to political and social change. Starting with a simple re-design of a previous web-site, I implemented a customised \"Geeklog\" content management system for the organisation. This installation included the development of a news syndication module, as well as hacking the main code to get it to bend in ways it didn't.",
       "startDate": "2003-10-01",
-      "endDate": "2004-03-01"
+      "endDate": "2004-03-01",
+      "roles": [
+        "Web Designer"
+      ]
     },
     {
-      "name": "Alliance for Freedom and Direct Democracy - Web Design and System Admin",
+      "name": "Web Designer and System Admin",
+      "entity": "Alliance for Freedom and Direct Democracy",
       "description": "A now defunct confederation of organization working toward the advancement of directly democratic political practices. I constructed a rudimentary web-site for the organisation, as well as ran several mailing lists.",
       "startDate": "2003-01-01",
       "endDate": "2003-12-31"
     },
     {
-      "name": "Framework - Software Developer",
+      "name": "System Administrator",
+      "entity": "flag.blackened.net",
+      "description": "flag.blackened.net was an all volunteer run Internet Service Provider that offered free services for non-profit organizations from around the world. My contribution to this project included a complete redesign of the project webpage, along with implementation and support of various other Internet technologies (mailing lists, content management systems, etc.) that met the needs of flag users. My responsibilities included monitoring systems status (flag ran on freeBSD), maintaining services (Apache, MySQL, and Mailman primarily), and supporting users.",
+      "startDate": "2000-01-01",
+      "endDate": "2002-12-31",
+      "roles": [
+        "Web Designer",
+        "System Administrator"
+      ]
+    },
+    {
+      "name": "Framework",
+      "entity": "Mom & Pop Media",
       "description": "Framework was a lightweight PHP web application development toolkit for creating large-scale PHP application. Its goal was to abstract common web-application needs away from application development, while also providing a well structured 3-tiered modular environment for developing new applications. Framework attempted to unifies central web application problems under a one solution roof.",
       "endDate": "2007",
       "startDate": "2000",
@@ -385,25 +427,79 @@
         "application debugging",
         "application installation",
         "web services"
+      ],
+      "roles": [
+        "Software Developer"
       ]
     },
     {
-      "name": "Carrier Pigeon - Software Developer",
+      "name": "Carrier Pigeon",
+      "entity": "Mom & Pop Media",
       "description": "Carrier Pigeon was an open source email newsletter solution that integrates with any web-site. The application provided tools necessary to run an email newsletter program. It supported HTML and plain text emails, generating plain text from the HTML version on demand. In addition, it offered subscription management, an interface for building newsletters, archive of past issues, and much more. Built in PHP 4 and running MySQL for storing data, this was my first serious web program. It was used by several of my freelance clients.",
       "startDate": "2000-01-01",
-      "endDate": "2004-01-01"
+      "endDate": "2004-01-01",
+      "roles": [
+        "Software Developer"
+      ]
     },
     {
-      "name": "PHPWeblog - Software Developer",
+      "name": "Web Developer",
+      "entity": "PHPWeblog",
       "description": "PHPWeblog was a GPL licensed PHP 4/MySQL based news portal that grew to be pretty popular way back when. I deployed a version of PHPWeblog for a high traffic site called InfoShop. My customizations for this project resulted in several contributions to speed up the server side code. This included re-designing the database and implementing a file system based cache of generated content.",
       "startDate": "2000-01-01",
-      "endDate": "2000-04-01"
+      "endDate": "2000-04-01",
+      "roles": [
+        "Software Developer"
+      ]
     },
     {
-      "name": "Left Green Perspectives",
+      "name": "Web Developer, Designer & Managing Editor",
+      "entity": "Harbinger, a Journal of Social Ecology",
+      "description": "An in house publication of the Institute for Social Ecology. The website target audience includes academics, community groups, faculty, alumni, and the ISE student body. The web site was composed of dynamic and static content. Dynamic components include a PHP/MySQL driven guest book. Along with filling the position of Managing Editor, I was responsible for the conceptualisation, development, and maintenance of the entire project—server to front end design.",
+      "startDate": "2000-01-01",
+      "endDate": "2003-12-31"
+    },
+    {
+      "name": "Website",
+      "description": "The Community Arts Project was a South African organisation dedicated to providing people-centred education and training in the visual and performing arts. CAP worked with youth and unemployed adults promoting the arts for community development. Part of a 5 month long work placement with CAP had me developing their web site. The project included collaboratively developing the web site's objectives with the organisation and implementing a design solution. ",
+      "startDate": "1999-10-01",
+      "endDate": "2000-03-01",
+      "entity": "Community Arts Project",
+      "roles": [
+        "Web Designer",
+        "Information Architect"
+      ]
+    },
+    {
+      "name": "Website",
+      "entity": "Adult Learning South Africa",
+      "description": "Adult Learning South Africa was an on-line resource for adult educators and learners in South Africa. I served as the Information Architect while I lived in South Africa. For many months following this, I offered technical support during the design phase.",
+      "startDate": "1999-10-01",
+      "endDate": "2000-05-01",
+      "roles": [
+        "Web Designer",
+        "Information Architect"
+      ]
+    },
+    {
+      "name": "Website",
+      "entity": "Left Green Perspectives",
       "startDate": "1999-01-01",
       "endDate": "1999-12-31",
-      "description": "Left Green Perspectives was an sporadic publication of the Social Ecology Project spearheaded by American intellectuals Murray Bookchin and Janet Biehl. The goal of this project was to provide an on-line archive of past issues. This web site was one of my first."
+      "description": "Left Green Perspectives was an sporadic publication of the Social Ecology Project spearheaded by American intellectuals Murray Bookchin and Janet Biehl. The goal of this project was to provide an on-line archive of past issues. This web site was one of my first.",
+      "roles": [
+        "Web Designer"
+      ]
+    },
+    {
+      "name": "Junior System Administrator",
+      "entity": "TAO Communications",
+      "startDate": "1997-01-01",
+      "endDate": "1999-12-31",
+      "description": "My introduction to my first Linux shell was through a free account with TAO Communications where I eventually gained enough experience to earn root and minor system administration responsibilities.",
+      "roles": [
+        "System Administrator"
+      ]
     }
   ],
   "meta": {
