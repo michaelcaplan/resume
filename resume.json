@@ -1,9 +1,16 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "./schema.json",
   "basics": {
     "name": "Michael Caplan",
     "label": "Software Development Manager Who Codes",
     "image": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=600",
+    "images": [
+      {
+        "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=1440",
+        "width": 1440,
+        "height": 1440
+      }
+    ],
     "email": "michael@eggplant.ws",
     "phone": "",
     "url": "https://www.eggplant.ws",

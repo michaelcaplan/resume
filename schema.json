@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "allOf": [
+    {
+      "$ref": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
+    }
+  ],
+  "properties": {
+    "basics": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "images": {
+          "$ref": "#/$defs/images"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "images" : {
+      "type": "array",
+      "description": "Multi resolution images",
+      "additionalItems": false,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["src", "width", "height"],
+        "properties": {
+          "src": {
+            "type": "string",
+            "description": "path to the image",
+            "format": "uri-reference"
+
+          },
+          "width": {
+            "type": "integer",
+            "description": "Number of pixes across"
+          },
+          "height": {
+            "type": "integer",
+            "description": "Number of pixels high"
+          },
+          "density": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
