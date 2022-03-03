@@ -6,6 +6,26 @@
     "image": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=600",
     "images": [
       {
+        "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=192",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=256",
+        "width": 256,
+        "height": 256
+      },
+      {
+        "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=384",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=512",
+        "width": 512,
+        "height": 512
+      },
+      {
         "src": "https://s.gravatar.com/avatar/89465841bafcff9cee2b1f74dfe38b8e?s=1440",
         "width": 1440,
         "height": 1440
@@ -14,7 +34,7 @@
     "email": "michael@eggplant.ws",
     "phone": "",
     "url": "https://www.eggplant.ws",
-    "summary": "Mike has been active as a web application developer and designer since the late 90ies, working in the non-profit, university, retail, agricultural, and dental industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.\\n\\nMike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.",
+    "summary": "Mike has been active as a web application developer and designer since the late 90ies, working in the non-profit, university, retail, agricultural, and health care industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.\\n\\nMike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.",
     "location": {
       "countryCode": "CA",
       "city": "Wolfville",
@@ -50,16 +70,6 @@
       "location": "Wolfville, NS, CA"
     },
     {
-      "name": "Refresh Annapolis Valley",
-      "position": "Founder and Organizational Crew",
-      "startDate": "2012-12-31",
-      "endDate": "2020-12-31",
-      "highlights": [],
-      "summary": "A community of designers, developers and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
-      "url": "https://refreshannapolisvalley.org/",
-      "location": "Annapolis Valley, NS, CA"
-    },
-    {
       "name": "HarvestHand",
       "position": "Co-Founder & Software Developer",
       "startDate": "2010-12-31",
@@ -84,7 +94,7 @@
         "Server administration and maintenance",
         "On call technical support"
       ],
-      "location": "Montreal and NS, CA"
+      "location": "Montréal and NS, CA"
     },
     {
       "name": "Apison Communications",
@@ -110,7 +120,7 @@
         "Payment gateway integration for Hourglass time tracking and project management software suite"
       ],
       "url": "https://www.htc.ca/",
-      "location": "Montreal, QC, CA"
+      "location": "Montréal, QC, CA"
     },
     {
       "name": "Internet Merchandising Systems",
@@ -128,7 +138,7 @@
       "position": "Web Developer",
       "startDate": "2003-10-01",
       "endDate": "2004-04-01",
-      "summary": "I took over developing this homoeopathic e-commerce web-site back in the winter of 2003 for Profilium, a Montreal based company specialising in developing technology for the mobile market.",
+      "summary": "I took over developing this homoeopathic e-commerce web-site back in the winter of 2003 for Profilium, a Montréal based company specialising in developing technology for the mobile market.",
       "highlights": [
         "Developed a sophisticated discount manager for their pre-existing application",
         "Reworked the application's architecture",
@@ -151,7 +161,7 @@
         "Implemented a coding standard to enhance our team based development environment",
         "Researched Free and Open Source Software for the web environment, making recommendations on viable solutions to the various problems we need to solve"
       ],
-      "location": "Montreal, QC, CA"
+      "location": "Montréal, QC, CA"
     },
     {
       "name": "Polar Plastic LTD",
@@ -173,21 +183,132 @@
       "startDate": "1999-10-01",
       "endDate": "2000-02-01",
       "summary": "Ontario Institute PMAC— Ottawa District is a national association of supply management professionals. This project included a complete re-conceptualisation of the information architecture and redesign of the District's original web site. Part of the project also included the development of a newsletter web application that facilitates the construction and distribution of rich text email newsletters. I built the newsletter application in PHP, running MySQL on the backend (eventually becoming the \"Carrier Pigeon\" package)."
+    },
+    {
+      "name": "Québec Public Interest Research Group at Concordia University",
+      "location": "Montréal, QC, CA",
+      "position": "Coordinator",
+      "startDate": "1998-01-01",
+      "endDate": "1999-12-31",
+      "url": "https://www.qpirgconcordia.org/",
+      "summary": "The Québec Public Interest Research Group at Concordia University is an umbrella organization of students, community activists, researchers and educators dedicated to research, education, and action. QPIRG's goal is to sensitize the community to social and environmental issues concerning Montréalers while promoting active citizenship.",
+      "highlights": [
+        "volunteer recruitment, training, and retention",
+        "coordination of the resource centre",
+        "media & P.R. (production of promotional material—print and web, maintaining public relations, and media training)",
+        "coordination of an activist education series",
+        "financial coordination (overseeing accountant's work, acting as the primary financial resource person for the organisation, and overseeing the collective budgeting process)",
+        "fundraising",
+        "overseeing the yearly strategic planning process",
+        "providing support and training for the Board of Directors"
+      ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Refresh Annapolis Valley",
+      "position": "Founder and Organizational Crew",
+      "startDate": "2012-12-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "A community of designers, developers and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
+      "url": "https://refreshannapolisvalley.org/"
+    },
+    {
+      "organization": "Social Ecology Speakers Bureau",
+      "position": "Founder",
+      "startDate": "2000-06-01",
+      "endDate": "2003-01-01",
+      "summary": "The Social Ecology Speakers Bureau brought together some of the most influential activists and educators working with social ecological. The SESB speakers were available for lectures and workshops, and covered a wide range of issues, including globalisation, politics and activism, biotechnology, feminism, community development, ecological design and more.",
+      "highlights": [
+        "promotions",
+        "organised several speaker tours",
+        "booked numerous individual events"
+      ]
+    },
+    {
+      "organization": "The Community Arts Project",
+      "position": "Intern",
+      "startDate": "2000-01-01",
+      "endDate": "2000-05-31",
+      "summary": "The Community Arts Project was a South African organisation dedicated to providing people-centred education and training in the visual and performing arts. CAP works with youth and unemployed adults and is committed to promoting the arts for community development. Historically, CAP was integral to the anti-apartheid movement.",
+      "highlights": [
+        "developed print and web media to promote the organisation in general",
+        "designed all promotional material for a CAP production for the 2000 Grahamstown Standard Bank National Arts Festival",
+        "devise a strategic planning process and facilitated many sessions with the staffing body in implementing it",
+        "conducted computer literacy training with staff"
+      ]
+    },
+    {
+      "organization": "Association d'espace de l'espace libre et imaginaire",
+      "position": "President",
+      "startDate": "1997-03-01",
+      "endDate": "2000-07-01",
+      "summary": "The Association d'espace de l'espace libre et imaginaire was a not-for-profit corporation devoted to the upkeep of the historic 2033 St. Laurent. This Montréal building was home to the Librairie Alternative Bookshop, a bookstore devoted to issues of labour, ecology, feminism, sexual identity, and social justice.",
+      "highlights": [
+        "overseeing building maintenance",
+        "overseeing the budget",
+        "coordination of communications between tenants and the Board of Directors",
+        "ensuring that the association maintains its charter"
+      ]
+    },
+    {
+      "organization": "Librairie Alternative Bookshop",
+      "position": "Collective Member",
+      "summary": "The Librairie Alternative Bookshop is collectively owned and operated, non-profit bookstore. Dating back to 1974, the bookshop grew out of the antinuclear and peace movements of the time.",
+      "startDate": "1997-02-01",
+      "endDate": "2000-01-01",
+      "highlights": [
+        "participation in the collective process (group facilitation and consensus decision-making)",
+        "stock maintenance",
+        "accounting (bookkeeping, banking, upkeep of accounts, and budgeting)",
+        "cashier",
+        "training of new volunteers"
+      ]
+    },
+    {
+      "organization": "Québec Public Interest Research Group at Concordia University",
+      "position": "Working Group Leader",
+      "startDate": "1996-01-01",
+      "endDate": "1997-12-31",
+      "url": "https://www.qpirgconcordia.org/",
+      "summary": "The Québec Public Interest Research Group at Concordia University is an umbrella organization of students, community activists, researchers and educators dedicated to research, education, and action. QPIRG's goal is to sensitize the community to social and environmental issues concerning Montréalers while promoting active citizenship.",
+      "highlights": [
+        "led anti-poverty working group",
+        "led political philosophy study group"
+      ]
+    },
+    {
+      "organization": "Food Not Bombs - Montréal Chapter",
+      "position": "Founder",
+      "summary": "Food Not Bombs is a community based organisation dedicated to the combating of poverty through direct action food services. I co-funded the Montréal chapter.",
+      "highlights": [
+        "volunteer recruitment and coordination",
+        "group facilitation",
+        "co-ordination of food pickup and delivery",
+        "establishment of links with local organic farms",
+        "preparation of a weekly vegan meal",
+        "development and presentation of educational workshops on non-violence and food politics",
+        "networking and coalition building",
+        "media relations"
+      ],
+      "startDate": "1995-04-01",
+      "endDate": "1996-09-01",
+      "url": "https://foodnotbombs.net/new_site/"
+    }
+  ],
   "education": [],
   "awards": [
     {
-      "title": "Halifax Startup Weekend First Place Winner 2013",
+      "title": "First Place",
       "date": "2013-11-30",
-      "awarder": "Startup Weekend",
+      "awarder": "Halifax Startup Weekend",
       "summary": "An event that brings entrepreneurial-minded people from different backgrounds and professions together to develop innovative start-ups in 54 hours."
     },
     {
-      "title": "Hacking Health Halifax Hackathon Third Place 2017",
+      "title": "Third Place",
       "date": "2017-03-24",
-      "awarder": "Hacking Health",
+      "awarder": "Hacking Health Halifax",
       "summary": "A weekend-long hackathon that breaks down barriers to healthcare innovation by bringing together IT and healthcare professionals to collaborate, dream up & design apps, devices and solutions for patient-centric care."
     }
   ],
@@ -468,9 +589,9 @@
     },
     {
       "name": "Website",
-      "description": "The Community Arts Project was a South African organisation dedicated to providing people-centred education and training in the visual and performing arts. CAP worked with youth and unemployed adults promoting the arts for community development. Part of a 5 month long work placement with CAP had me developing their web site. The project included collaboratively developing the web site's objectives with the organisation and implementing a design solution. ",
-      "startDate": "1999-10-01",
-      "endDate": "2000-03-01",
+      "description": "Part of a 5 month long work placement with CAP had me developing their web site. The project included collaboratively developing the web site's objectives with the organisation and implementing a design solution. ",
+      "startDate": "2000-01-01",
+      "endDate": "2000-05-31",
       "entity": "Community Arts Project",
       "roles": [
         "Web Designer",
@@ -481,8 +602,8 @@
       "name": "Website",
       "entity": "Adult Learning South Africa",
       "description": "Adult Learning South Africa was an on-line resource for adult educators and learners in South Africa. I served as the Information Architect while I lived in South Africa. For many months following this, I offered technical support during the design phase.",
-      "startDate": "1999-10-01",
-      "endDate": "2000-05-01",
+      "startDate": "2000-01-01",
+      "endDate": "2000-07-31",
       "roles": [
         "Web Designer",
         "Information Architect"
