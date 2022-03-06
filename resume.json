@@ -149,7 +149,7 @@
     {
       "name": "Le Château",
       "position": "Lead PHP Developer",
-      "startDate": "2003-12-31",
+      "startDate": "2004-01-01",
       "endDate": "2005-12-31",
       "url": "https://www.instagram.com/lechateau/",
       "summary": "Le Château Inc. was a fashion company. In my then role, I worked on developing a large scale corporate Intranet which integrated legacy systems and new web application solutions for over 300 users and 150 stores across Canada and the USA.",
@@ -162,6 +162,22 @@
         "Researched Free and Open Source Software for the web environment, making recommendations on viable solutions to the various problems we need to solve"
       ],
       "location": "Montréal, QC, CA"
+    },
+    {
+      "position": "Director",
+      "name": "Institute for Anarchist Studies",
+      "summary": "Each year the IAS awards grants to authors promoting critical scholarship on social domination and the reconstructive vision of a free society. The IAS believes this theoretical work is of great importance to informing activist practises, just as practise inform theory. The IAS has funded over a hundred projects by authors from countries around the world, including Argentina, Canada, Chile, Ireland, Nigeria, Germany, South Africa, and the United States.",
+      "startDate": "2003-01-01",
+      "endDate": "2003-12-31",
+      "url": "https://anarchiststudies.org/",
+      "highlights": [
+        "Fundraising",
+        "Book keeping",
+        "Board of Director coordination",
+        "Managing the grant program",
+        "Promotions",
+        "Newsletter produciton"
+      ]
     },
     {
       "name": "Polar Plastic LTD",
@@ -185,6 +201,19 @@
       "summary": "Ontario Institute PMAC— Ottawa District is a national association of supply management professionals. This project included a complete re-conceptualisation of the information architecture and redesign of the District's original web site. Part of the project also included the development of a newsletter web application that facilitates the construction and distribution of rich text email newsletters. I built the newsletter application in PHP, running MySQL on the backend (eventually becoming the \"Carrier Pigeon\" package)."
     },
     {
+      "name": "Institute for Social Ecology",
+      "position": "Media Coordinator",
+      "startDate": "2000-01-01",
+      "endDate": "2002-12-31",
+      "summary": "The Institute for Social Ecology is an independent institution of higher education based in Vermont dedicated to the study of social ecology. The ISE offers year-round interdisciplinary programs.",
+      "url": "https://social-ecology.org/",
+      "highlights": [
+        "Development, design, and production of all of the ISE's Internet presence, as well as much of the print media",
+        "Editing two monthly electronic newsletters.",
+        "Overseeing and implementing the ISE's \"Media Strategy\" in conjunction with staff and the voting membership"
+      ]
+    },
+    {
       "name": "Québec Public Interest Research Group at Concordia University",
       "location": "Montréal, QC, CA",
       "position": "Coordinator",
@@ -193,18 +222,53 @@
       "url": "https://www.qpirgconcordia.org/",
       "summary": "The Québec Public Interest Research Group at Concordia University is an umbrella organization of students, community activists, researchers and educators dedicated to research, education, and action. QPIRG's goal is to sensitize the community to social and environmental issues concerning Montréalers while promoting active citizenship.",
       "highlights": [
-        "volunteer recruitment, training, and retention",
-        "coordination of the resource centre",
-        "media & P.R. (production of promotional material—print and web, maintaining public relations, and media training)",
-        "coordination of an activist education series",
-        "financial coordination (overseeing accountant's work, acting as the primary financial resource person for the organisation, and overseeing the collective budgeting process)",
-        "fundraising",
-        "overseeing the yearly strategic planning process",
-        "providing support and training for the Board of Directors"
+        "Volunteer recruitment, training, and retention",
+        "Coordination of the resource centre",
+        "Media & P.R. (production of promotional material—print and web, maintaining public relations, and media training)",
+        "Organized an activist education series (24 events over 2 years) which sought to promote \"active citizenship\" by offering seasoned activists and concerned citizens skills in community organising and knowledge about current issues our community faced",
+        "Financial coordination (overseeing accountant's work, acting as the primary financial resource person for the organisation, and overseeing the collective budgeting process)",
+        "Fundraising",
+        "Overseeing the yearly strategic planning process",
+        "Providing support and training for the Board of Directors"
       ]
     }
   ],
   "volunteer": [
+    {
+      "position": "Creative Computing - Leader",
+      "organization": "Refresh Annapolis Valley",
+      "startDate": "2017-01-31",
+      "description": "Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.",
+      "url": "https://refreshannapolisvalley.org/project/creative-computing/",
+      "endDate": "2017-06-30",
+      "roles": [
+        "Organizer",
+        "Mentor"
+      ]
+    },
+    {
+      "position": "Mashup Weekend Kentville Facilitator",
+      "organization": "Mashup Labs",
+      "startDate": "2014-11-30",
+      "description": "Business building ideation competition ",
+      "url": "https://www.saltwire.com/atlantic-canada/business/mashup-weekend-in-kentville-will-be-a-weekend-of-breakneck-business-building-70498/",
+      "endDate": "2014-11-30",
+      "roles": [
+        "Event Facilitator"
+      ]
+    },
+    {
+      "position": "Refresh Food - Organizer",
+      "organization": "Refresh Annapolis Valley",
+      "startDate": "2014-01-31",
+      "description": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
+      "url": "https://refreshannapolisvalley.org/project/f5-food/",
+      "endDate": "2014-01-31",
+      "roles": [
+        "Organizer",
+        "Event Facilitator"
+      ]
+    },
     {
       "organization": "Refresh Annapolis Valley",
       "position": "Founder and Organizational Crew",
@@ -215,15 +279,15 @@
       "url": "https://refreshannapolisvalley.org/"
     },
     {
-      "organization": "Social Ecology Speakers Bureau",
-      "position": "Founder",
+      "organization": "Institute for Social Econology",
+      "position": "Social Ecology Speakers Bureau - Founder and Organizer",
       "startDate": "2000-06-01",
       "endDate": "2003-01-01",
       "summary": "The Social Ecology Speakers Bureau brought together some of the most influential activists and educators working with social ecological. The SESB speakers were available for lectures and workshops, and covered a wide range of issues, including globalisation, politics and activism, biotechnology, feminism, community development, ecological design and more.",
       "highlights": [
-        "promotions",
-        "organised several speaker tours",
-        "booked numerous individual events"
+        "Promotions (print and web)",
+        "Organised several speaker tours",
+        "Booked numerous individual events"
       ]
     },
     {
@@ -237,6 +301,33 @@
         "designed all promotional material for a CAP production for the 2000 Grahamstown Standard Bank National Arts Festival",
         "devise a strategic planning process and facilitated many sessions with the staffing body in implementing it",
         "conducted computer literacy training with staff"
+      ]
+    },
+    {
+      "organization": "8th Continental Conference on Social Ecology",
+      "position": "Organizer",
+      "startDate": "1998-01-01",
+      "endDate": "1998-04-05",
+      "summary": "The 8th Continental Conference on Social Ecology was a three-day conference focused on the theme of Social Ecology and Education. It featured a wide array of presentations, workshops and panel discussions examining the role of education and educators in addressing key contemporary social and political issues. The event attracted well over 200 participants from across Canada and the USA.",
+      "highlights": [
+        "logistics",
+        "organizing speakers, panel discussions, and workshops",
+        "fundraising"
+      ]
+    },
+    {
+      "organization": "New School - Dawson College",
+      "position": "\"Social Change and Grassroots Organising.\" - Course Facilitator",
+      "startDate": "1997-09-01",
+      "endDate": "1997-12-19",
+      "summary": "The New School at Dawson College is a CEGEP level alternative school based on the principles of humanistic education. I co-facilitated a course on \"Social Change and Grassroots Organising.\" The course explored different theories of oppression, visions for a new society, and political activism.",
+      "url": "https://www.dawsoncollege.qc.ca/new-school/",
+      "highlights": [
+        "Facilitation of the group process, with emphasis on student centred curriculum development and implementation",
+        "Skill and resource identification and fulfilment",
+        "Peer guidance",
+        "Preparation and delivery of class lectures / guided discussions",
+        "The class drew allot of interest from the student body, resulting in the largest enrolment of any class offered. The class received good reviews from the students"
       ]
     },
     {
@@ -326,8 +417,41 @@
       "issuer": "Zend"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Radical Alternatives: An Interview with Ingrid Young",
+      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-radical-alternatives-an-interview-with-ingrid-young/",
+      "publisher": "Harbinger Vol. 3 No. 1",
+      "releaseDate": "2003-03-20"
+    },
+    {
+      "name": "Education & Community Action: A History of the Institute for Social Ecology’s Programs",
+      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-education-community-action-a-history-of-the-institute-for-social-ecology%e2%80%99s-programs/",
+      "publisher": "Harbinger Vol. 3 No. 1",
+      "releaseDate": "2003-03-20"
+    },
+    {
+      "name": "The Oromo and the Ethiopian Empire State; An interview with Amaan",
+      "url": "https://social-ecology.org/wp/2001/10/harbinger-vol-2-no-1-the-oromo-and-the-ethiopian-empire-state-an-interview-with-amaan/",
+      "publisher": "Harbinger Vol. 2 No. 1",
+      "releaseDate": "2001-03-20"
+    }
+  ],
   "skills": [
+    {
+      "name": "Frontend Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML5",
+        "CSS2+",
+        "jQuery",
+        "Vue.js",
+        "React",
+        "Javascript",
+        "ECMAScript 2021",
+        "AJAX"
+      ]
+    },
     {
       "name": "PHP",
       "level": "",
@@ -349,32 +473,7 @@
       "keywords": []
     },
     {
-      "name": "Henry Schein",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Windows",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML 5",
       "level": "",
       "keywords": []
     },
@@ -390,11 +489,6 @@
     },
     {
       "name": "Software Engineering",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AJAX",
       "level": "",
       "keywords": []
     },
@@ -419,22 +513,12 @@
       "keywords": []
     },
     {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "SQL",
       "level": "",
       "keywords": []
     },
     {
       "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
       "level": "",
       "keywords": []
     },
@@ -452,6 +536,15 @@
       "name": "Unix",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Desktop Publishing",
+      "level": "Intermediate",
+      "keywords": [
+        "Adobe Pagemaker",
+        "Adobe InDesign",
+        "Scribus"
+      ]
     }
   ],
   "languages": [
@@ -463,41 +556,6 @@
   "interests": [],
   "references": [],
   "projects": [
-    {
-      "name": "Creative Computing",
-      "entity": "Refresh Annapolis Valley",
-      "startDate": "2017-01-31",
-      "description": "Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.",
-      "url": "https://refreshannapolisvalley.org/project/creative-computing/",
-      "endDate": "2017-06-30",
-      "roles": [
-        "Organizer",
-        "Mentor"
-      ]
-    },
-    {
-      "name": "Mashup Weekend Kentville",
-      "entity": "Mashup Labs",
-      "startDate": "2014-11-30",
-      "description": "Business building ideation competition ",
-      "url": "https://www.saltwire.com/atlantic-canada/business/mashup-weekend-in-kentville-will-be-a-weekend-of-breakneck-business-building-70498/",
-      "endDate": "2014-11-30",
-      "roles": [
-        "Event Facilitator"
-      ]
-    },
-    {
-      "name": "Refresh Food",
-      "entity": "Refresh Annapolis Valley",
-      "startDate": "2014-01-31",
-      "description": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
-      "url": "https://refreshannapolisvalley.org/project/f5-food/",
-      "endDate": "2014-01-31",
-      "roles": [
-        "Organizer",
-        "Event Facilitator"
-      ]
-    },
     {
       "name": "Web Designer",
       "entity": "Azur Development",
@@ -519,11 +577,38 @@
       ]
     },
     {
+      "name": "Web Designer & Developer",
+      "entity": "Institute for Anarchist Studies",
+      "description": "The IAS is a foundation that offers grants to authors.  This web project serviced prospective applicants, grant recipients, supporters, and the Board of Directors.",
+      "roles": [
+        "Web Designer",
+        "Developer",
+        "System Administrator"
+      ],
+      "highlights": [
+        "Build a heavily modified version of the eZPublish 2.x CMS",
+        "Home rolled email newsletter application",
+        "Groupware tools such as: a calendaring system, discussion forums, articling system, a file manager, and newsletter builder"
+      ],
+      "startDate": "2003-01-01",
+      "endDate": "2004-12-31"
+    },
+    {
       "name": "Web Designer and System Admin",
       "entity": "Alliance for Freedom and Direct Democracy",
       "description": "A now defunct confederation of organization working toward the advancement of directly democratic political practices. I constructed a rudimentary web-site for the organisation, as well as ran several mailing lists.",
       "startDate": "2003-01-01",
       "endDate": "2003-12-31"
+    },
+    {
+      "name": "Web Designer",
+      "entity": "Benny Farm Affordable Home Ownership Initiative",
+      "description": "Les Habitations Communautaires NDG (HCNDG) and Les Habitations Sherbrooke Forest (HSF) are two affiliated non- profit community-housing organisations who have played an important role in providing affordable housing to the Notre-Dame-de-Grâce neighbourhood in the west end of Montreal. I designed their website that was a crucial tool in their bid to create affordable homes at Benny Farm.",
+      "startDate": "2002-02-01",
+      "endDate": "2002-04-01",
+      "roles": [
+        "Web Designer"
+      ]
     },
     {
       "name": "System Administrator",
@@ -537,23 +622,37 @@
       ]
     },
     {
+      "name": "Web Designer, Developer, and System Administrator",
+      "entity": "Institute for Social Ecology",
+      "startDate": "2000-01-01",
+      "endDate": "2003-12-31",
+      "description": "The ISE provides college level courses in the field of Social Ecology.  This project focused on public facing web and email, as well as a faculty extranet.",
+      "roles": [
+        "Web Designer",
+        "Web Developer",
+        "System Administrator"
+      ],
+      "highlights": [
+        "Built dynamic web components include a calendar, discussion forums, and a monthly newsletter all built by myself in PHP with MySQL.",
+        "Email list management with MHonArc, Mailman, mnoGoSearch, Postfix",
+        "freeBSD"
+      ]
+    },
+    {
       "name": "Framework",
       "entity": "Mom & Pop Media",
-      "description": "Framework was a lightweight PHP web application development toolkit for creating large-scale PHP application. Its goal was to abstract common web-application needs away from application development, while also providing a well structured 3-tiered modular environment for developing new applications. Framework attempted to unifies central web application problems under a one solution roof.",
+      "description": "Framework was a lightweight PHP web application development toolkit for creating large-scale PHP application. It aimed to solve common web-application development needs out of the box, while providing a 3-tiered architecture and modular environment for developing new applications.",
       "endDate": "2007",
       "startDate": "2000",
       "highlights": [
         "database abstraction",
-        "presentation abstraction",
+        "presentation abstraction and templating",
         "application configuration",
         "user authentication",
-        "user permissions",
-        "user preferences",
-        "session handling",
+        "user permissions & preferences",
+        "session management",
         "localisation and internationalisation",
-        "error handling",
-        "application debugging",
-        "application installation",
+        "error handling and application debugging",
         "web services"
       ],
       "roles": [
@@ -585,7 +684,11 @@
       "entity": "Harbinger, a Journal of Social Ecology",
       "description": "An in house publication of the Institute for Social Ecology. The website target audience includes academics, community groups, faculty, alumni, and the ISE student body. The web site was composed of dynamic and static content. Dynamic components include a PHP/MySQL driven guest book. Along with filling the position of Managing Editor, I was responsible for the conceptualisation, development, and maintenance of the entire project—server to front end design.",
       "startDate": "2000-01-01",
-      "endDate": "2003-12-31"
+      "endDate": "2003-12-31",
+      "highlights": [
+        "Wrote custom guest book in PHP / MySQL (remember those?)",
+        ""
+      ]
     },
     {
       "name": "Website",
