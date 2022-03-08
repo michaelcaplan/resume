@@ -419,6 +419,36 @@
   ],
   "publications": [
     {
+      "name": "Hax0r Pwn3d? n00b Guide to Web App Security",
+      "url": "https://labnet.bitbucket.io/2014/04/08/hax0r-pwn3d-n00b-guide-to-web-app-security/",
+      "publisher": "Refresh Annapolis Valley",
+      "releaseDate": "2014-04-08"
+    },
+    {
+      "name": "Open Web Platform: HTML5 and Semantic Markup",
+      "url": "https://labnet.bitbucket.io/2013/01/14/open-web-platform-html5-and-semantic-markup/",
+      "publisher": "Refresh Annapolis Valley",
+      "releaseDate": "2013-01-14"
+    },
+    {
+      "name": "Don’t Forget to Flush",
+      "url": "https://web.archive.org/web/20090122143628/http://www.eggplant.ws/blog/php/dont-forget-to-flush/",
+      "publisher": "Self published",
+      "releaseDate": "2009-01-04"
+    },
+    {
+      "name": "Mayday, Mayday, Mayday - PHP Going Down",
+      "url": "https://web.archive.org/web/20090207023925/http://www.eggplant.ws/blog/php/mayday-php-going-down/",
+      "publisher": "Self published",
+      "releaseDate": "2008-08-24"
+    },
+    {
+      "name": "Leveraging Omnis within a Heterogeneous Environment through Remote Studio",
+      "url": "https://labnet.bitbucket.io/2008/08/26/leveraging-omnis-within-a-heterogeneous-environment-through-remote-studio/",
+      "publisher": "Omnis Central",
+      "releaseDate": "2008-08-26"
+    },
+    {
       "name": "Radical Alternatives: An Interview with Ingrid Young",
       "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-radical-alternatives-an-interview-with-ingrid-young/",
       "publisher": "Harbinger Vol. 3 No. 1",
@@ -553,9 +583,42 @@
       "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Running",
+        "Skateboarding",
+        "Bouldering",
+        "Skiing"
+      ]
+    },
+    {
+      "name": "Residential Construction",
+      "keywords": [
+        "Architectural design",
+        "Drywall",
+        "Framing",
+        "Plumbing",
+        "Electrical wiring",
+        "Home renovations"
+      ]
+    }
+  ],
   "references": [],
   "projects": [
+    {
+      "name": "head",
+      "entity": "f5://imagination",
+      "description": "Head explored the digital eye and its ability to interact and interpret your own head.  This exhibit featured an array of laptops that syndicated your head.  Each head node would use various ML approaches to derive and display \"meaning\" from your observed face. head was presented at f5://imagination, a pop up exhibit focused on digital creativity.",
+      "url": "https://refreshannapolisvalley.org/event/f5/imagination/",
+      "startDate": "2017-12-12",
+      "endDate": "2017-12-12",
+      "highlights": [
+        "Machine learning",
+        "webRTC"
+      ]
+    },
     {
       "name": "Web Designer",
       "entity": "Azur Development",
