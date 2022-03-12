@@ -235,13 +235,25 @@
   ],
   "volunteer": [
     {
-      "position": "Creative Computing - Leader",
+      "position": "Labs - Facilitator",
+      "organization": "Refresh Annapolis Valley",
+      "startDate": "2019-01-26",
+      "endDate": "2019-06-01",
+      "summary": "Labs was a playground where adventurous youth builders came to build their dream technology projects. In the lab, youth work on growing and applying their skills all while pursuing the objectives of their projects.",
+      "highlights": [
+        "Facilitator",
+        "Educator"
+      ],
+      "url": "https://refreshannapolisvalley.org/project/labs/"
+    },
+    {
+      "position": "Creative Computing Course - Leader",
       "organization": "Refresh Annapolis Valley",
       "startDate": "2017-01-31",
-      "description": "Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.",
+      "endDate": "2019-06-30",
+      "summary": "Creative Computing was a course focused on exposing kids to the computer sciences. Broken up into 7 units, the course used the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.",
       "url": "https://refreshannapolisvalley.org/project/creative-computing/",
-      "endDate": "2017-06-30",
-      "roles": [
+      "highlights": [
         "Organizer",
         "Mentor"
       ]
@@ -250,10 +262,10 @@
       "position": "Mashup Weekend Kentville Facilitator",
       "organization": "Mashup Labs",
       "startDate": "2014-11-30",
-      "description": "Business building ideation competition ",
+      "summary": "Business building ideation competition ",
       "url": "https://www.saltwire.com/atlantic-canada/business/mashup-weekend-in-kentville-will-be-a-weekend-of-breakneck-business-building-70498/",
       "endDate": "2014-11-30",
-      "roles": [
+      "highlights": [
         "Event Facilitator"
       ]
     },
@@ -261,10 +273,10 @@
       "position": "Refresh Food - Organizer",
       "organization": "Refresh Annapolis Valley",
       "startDate": "2014-01-31",
-      "description": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
+      "summary": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
       "url": "https://refreshannapolisvalley.org/project/f5-food/",
       "endDate": "2014-01-31",
-      "roles": [
+      "highlights": [
         "Organizer",
         "Event Facilitator"
       ]
@@ -274,7 +286,10 @@
       "position": "Founder and Organizational Crew",
       "startDate": "2012-12-31",
       "endDate": "2020-12-31",
-      "highlights": [],
+      "highlights": [
+        "Tech Meetups",
+        "Organizer"
+      ],
       "summary": "A community of designers, developers and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
       "url": "https://refreshannapolisvalley.org/"
     },
@@ -405,6 +420,12 @@
   ],
   "certificates": [
     {
+      "name": "UX Foundation Bootcamp",
+      "issuer": "Digital Nova Scotia",
+      "url": "https://digitalnovascotia.com/event/ux-fundamentals-april-7-16/",
+      "date": "2020-04-16"
+    },
+    {
       "name": "Zend Certified Engineer: PHP 5",
       "url": "https://www.zend-zce.com/en/yellow-pages/ZEND006870",
       "date": "2008-01-07",
@@ -418,18 +439,6 @@
     }
   ],
   "publications": [
-    {
-      "name": "Hax0r Pwn3d? n00b Guide to Web App Security",
-      "url": "https://labnet.bitbucket.io/2014/04/08/hax0r-pwn3d-n00b-guide-to-web-app-security/",
-      "publisher": "Refresh Annapolis Valley",
-      "releaseDate": "2014-04-08"
-    },
-    {
-      "name": "Open Web Platform: HTML5 and Semantic Markup",
-      "url": "https://labnet.bitbucket.io/2013/01/14/open-web-platform-html5-and-semantic-markup/",
-      "publisher": "Refresh Annapolis Valley",
-      "releaseDate": "2013-01-14"
-    },
     {
       "name": "Don’t Forget to Flush",
       "url": "https://web.archive.org/web/20090122143628/http://www.eggplant.ws/blog/php/dont-forget-to-flush/",
@@ -477,103 +486,111 @@
         "jQuery",
         "Vue.js",
         "React",
+        "Bootstrap",
         "Javascript",
-        "ECMAScript 2021",
-        "AJAX"
+        "ECMAScript 2021"
       ]
     },
     {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
+      "name": "Back End Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "PHP",
+        "Zend Certified Engineer",
+        "Zend Framework",
+        "Node.js",
+        "SQL"
+      ]
     },
     {
-      "name": "Zend Framework",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Zend Certified Engineer",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
+      "name": "Web Applications Systems Architect and Administrator",
+      "level": "Advanced",
+      "keywords": [
+        "Ubuntu Server",
+        "CentOS",
+        "MySQL",
+        "MariaDB",
+        "Elasticsearch",
+        "Firebase Cloud Firestore",
+        "Apache HTTP Server",
+        "NGINX",
+        "Apache ActiveMQ",
+        "Zabbix Monitoring",
+        "OSSEC - Server Intrusion Detection",
+        "Wazuh - Open Source Security Platform",
+        "Ansible - Configuration Management",
+        "Client-Server",
+        "Multitiered Architecture",
+        "Event Driven",
+        "REST",
+        "Shared Nothing"
+      ]
     },
     {
       "name": "Software Engineering",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": [
+        "Requirements gathering",
+        "Software architecture",
+        "Data design - ER modeling",
+        "Interface design",
+        "Design patterns",
+        "Unit Testing",
+        "Integration Testing"
+      ]
     },
     {
-      "name": "Ubuntu",
-      "level": "",
-      "keywords": []
+      "name": "Software Development Lifecycle",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Jira",
+        "Bitbucket",
+        "Kanban",
+        "Agile"
+      ]
     },
     {
-      "name": "Apache",
-      "level": "",
-      "keywords": []
+      "name": "Software Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Design Thinking",
+        "User Research - Personas",
+        "Wireframing",
+        "Prototyping",
+        "Balsamiq",
+        "A/B Testing",
+        "End User Functional Testing"
+      ]
     },
     {
-      "name": "Web Development",
-      "level": "",
-      "keywords": []
+      "name": "Entrepreneurship",
+      "level": "Intermediate",
+      "keywords": [
+        "Lean Canvas",
+        "Minimal viable product",
+        "Continuous deployment"
+      ]
     },
     {
-      "name": "Subversion",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Applications",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "LAMP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Unix",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Desktop Publishing",
+      "name": "Graphic Design",
       "level": "Intermediate",
       "keywords": [
         "Adobe Pagemaker",
         "Adobe InDesign",
-        "Scribus"
+        "Scribus",
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Intermediate",
+      "keywords": [
+        "Content development",
+        "Press releases",
+        "Email",
+        "Social media",
+        "SEO"
       ]
     }
   ],
@@ -608,15 +625,136 @@
   "references": [],
   "projects": [
     {
-      "name": "head",
+      "name": "Elev8",
+      "entity": "Acadia Entrepreneurship Centre",
+      "description": "Elev8 was a digital program for students in grades 6-8. I developed and delivered curriculum focused on how to build and test your own digital business ideas.",
+      "startDate": "2021-01-21",
+      "endDate": "2021-03-25",
+      "url": "https://www.eventbrite.com/e/elev8-youth-digital-programming-tickets-135948743351",
+      "highlights": [
+        "Wireframing",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Databases",
+        "Design Thinking",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "name": "insta top",
+      "entity": "Personal project",
+      "startDate": "2020-03-20",
+      "endDate": "2020-03-20",
+      "url": "https://github.com/michaelcaplan/instatop/",
+      "description": "Little utility that displays an instagram profile's posts ordered by likes"
+    },
+    {
+      "name": "Innovating on The Internet",
+      "entity": "Refresh Annapolis Valley",
+      "startDate": "2019-05-14",
+      "endDate": "2019-05-14",
+      "url": "https://refreshannapolisvalley.org/event/innovating-on-the-internet/",
+      "description": "Workshop that explored pre-product prototype design tools to express their app ideas.",
+      "highlights": [
+        "Entrepreneurship",
+        "Prototyping",
+        "Wireframes"
+      ]
+    },
+    {
+      "name": "From Digital to Physical: 3D Design and Printing",
+      "entity": "Refresh Annapolis Valley",
+      "startDate": "2018-12-11",
+      "endDate": "2018-12-11",
+      "url": "https://refreshannapolisvalley.org/event/from-digital-to-physical-3d-printing/",
+      "description": "Introductory workshop on 3D design and printing",
+      "highlights": [
+        "3D printing technology",
+        "3D printing and entrepreneurial innovation",
+        "Designing for 3D printing",
+        "From design to print"
+      ]
+    },
+    {
+      "name": "Intro to WebVR",
+      "entity": "Horton High School",
+      "description": "Three webVR workshops presented across the entire female grade 9 student body",
+      "url": "https://glitch.com/edit/#!/horton",
+      "startDate": "2017-12-13",
+      "endDate": "2017-12-13",
+      "highlights": [
+        "A-Frame"
+      ]
+    },
+    {
+      "name": "Event organizer",
       "entity": "f5://imagination",
-      "description": "Head explored the digital eye and its ability to interact and interpret your own head.  This exhibit featured an array of laptops that syndicated your head.  Each head node would use various ML approaches to derive and display \"meaning\" from your observed face. head was presented at f5://imagination, a pop up exhibit focused on digital creativity.",
+      "description": "f5://imagination was a pop up exhibit focused on digital creativity. This one day temporary exhibit featured work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers… digital builders of all shapes, sizes, and credentials.",
+      "url": "https://refreshannapolisvalley.org/event/f5/imagination/",
+      "startDate": "2017-12-12",
+      "endDate": "2017-12-12"
+    },
+    {
+      "name": "face",
+      "entity": "f5://imagination",
+      "description": "Face explored the digital eye and its ability to interact and interpret your own head.  This exhibit featured an array of laptops that syndicated your head.  Each head node would use various ML approaches to derive and display \"meaning\" from your observed face. face was presented at f5://imagination, a pop up exhibit focused on digital creativity.",
       "url": "https://refreshannapolisvalley.org/event/f5/imagination/",
       "startDate": "2017-12-12",
       "endDate": "2017-12-12",
       "highlights": [
         "Machine learning",
         "webRTC"
+      ]
+    },
+    {
+      "name": "Teaching a Computer To See",
+      "entity": "Refresh Annapolis Valley",
+      "description": "Introductory workshop on AI, Machine Learning, and Computer Vision (for teens)",
+      "url": "https://glitch.com/edit/#!/teaching-a-computer-to-see?",
+      "startDate": "2017-08-17",
+      "endDate": "2017-08-17",
+      "highlights": [
+        "Machine Learning",
+        "Computer Vision",
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "name": "Project Management Sucks",
+      "entity": "Refresh Annapolis Valley",
+      "description": "A workshop that explored Kanban as a lightweight tool for overseeing the project processes.",
+      "url": "https://refreshannapolisvalley.org/event/project-management-sucks/",
+      "startDate": "2017-04-11",
+      "endDate": "2017-04-11",
+      "highlights": [
+        "Kanban",
+        "Agile",
+        "Project management"
+      ]
+    },
+    {
+      "name": "Hax0r Pwn3d? n00b Guide to Web App Security",
+      "entity": "Refresh Annapolis Valley",
+      "description" : "In this talk I reviewed top 10 web application security risks, how they work, and how you can defend your web properties against them.",
+      "url": "https://labnet.bitbucket.io/2014/04/08/hax0r-pwn3d-n00b-guide-to-web-app-security/",
+      "startDate": "2014-04-08",
+      "endDate": "2014-04-08",
+      "highlights": [
+        "OWASP Top 10",
+        "Open Web Application Security Project"
+      ]
+    },
+    {
+      "name": "Open Web Platform: HTML5 and Semantic Markup",
+      "entity": "Refresh Annapolis Valley",
+      "description" : "Talk I gave about defining semantically meaningful HTML",
+      "url": "https://labnet.bitbucket.io/2013/01/14/open-web-platform-html5-and-semantic-markup/",
+      "startDate": "2013-01-14",
+      "endDate": "2013-01-14",
+      "highlights": [
+        "HTML5",
+        "Semantic Web"
       ]
     },
     {
