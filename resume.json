@@ -34,7 +34,7 @@
     "email": "michael@eggplant.ws",
     "phone": "",
     "url": "https://www.eggplant.ws",
-    "summary": "Mike has been active as a web application developer and designer since the late 90ies, working in the non-profit, university, retail, agricultural, and health care industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.\\n\\nMike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.",
+    "summary": "Mike has been active as a web application developer and designer since the late 90s, working in the non-profit, university, retail, agricultural, and health care industries. He was a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association.\n\nMike is the Software Development Manager for the Labnet Dental Lab Systems division of Henry Schein - a solutions company for health care professionals.",
     "location": {
       "countryCode": "CA",
       "city": "Wolfville",
@@ -56,6 +56,11 @@
         "network": "GitHub",
         "username": "michaelcaplan",
         "url": "https://github.com/michaelcaplan"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "labnet",
+        "url": "https://bitbucket.org/labnet/"
       }
     ]
   },
@@ -64,8 +69,15 @@
       "name": "Henry Schein One",
       "position": "Software Development Manager",
       "startDate": "2006-09-30",
-      "highlights": [],
-      "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets.",
+      "highlights": [
+        "Hired as the founding Software Engineer for the product Digital Dental Exchange (DDX)",
+        "Architected and engineered the DDX platform, which acts as a key component in clinical workflows integrating a large ecosystem of technology partners",
+        "Scaled the DDX platform to service several geographic regions",
+        "Defined a new class of SaaS Dental Lab Management Software - Labnext",
+        "Built our engineering team and processes",
+        "Engineering team reported the highest job satisfaction across all of Henry Schein One (2021)"
+      ],
+      "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems; with solutions suited for labs of all sizes and budgets.",
       "url": "https://henryscheinone.com/",
       "location": "Wolfville, NS, CA"
     },
@@ -75,7 +87,13 @@
       "startDate": "2010-12-31",
       "endDate": "2019-12-31",
       "summary": "HarvestHand was an Internet platform for Community Shared Agriculture (CSA) businesses to communicate with and manage their community of members.",
-      "location": "Port Williams, NS, CA"
+      "location": "Port Williams, NS, CA",
+      "highlights": [
+        "Technology founder",
+        "Primary software engineer",
+        "Scaled business and technology platform to service regional farms",
+        "Winner of the inaugural Agriculture Innovation Accelerator Award"
+      ]
     },
     {
       "name": "Mom & Pop Media",
@@ -85,10 +103,7 @@
       "summary": "Working under the name Mom & Pop Media, I started my freelance web and print design consultancy upon return from my stay in South Africa in 2000.",
       "highlights": [
         "Web and email hosting services",
-        "Web design",
-        "Web-site maintenance",
-        "Web application installation",
-        "Email campaigning",
+        "Web design and web-site maintenance",
         "Custom web application development",
         "Print design (newsletters, pamphlets, posters)",
         "Server administration and maintenance",
@@ -113,7 +128,7 @@
       "highlights": [
         "Overseeing the development and deployment of IgnitionWeb 3.4 – a major milestone release including WYSIWYG content editing, as well as major code and SQL performance optimisations",
         "Auditing Unisource.ca, a multi-million dollar B2B web site, for performance bottlenecks and implementing sweeping code and database performance optimisations",
-        "Integration of IgnitionWeb for several clients including Dynaflair Corporation, Trueline Valve Corporation, JC-TL, JC Fábrica de Válvulas",
+        "Integration of IgnitionWeb for several clients including Dynaflair Corporation, Trueline Valve Corporation, JC-TL, and JC Fábrica de Válvulas",
         "Migration of CVS + Bugzilla source control management system to Subversion + Trac",
         "IgnitionWeb 3.x and 4.x development roadmap",
         "Development of Quality Assurance program",
@@ -129,7 +144,7 @@
       "endDate": "2004-12-31",
       "summary": "I acted as a primary developer of Internet Merchandising Systems' line of e-commerce products targeted at hotel, tour, rental, and retail sectors.",
       "highlights": [
-        "I worked on their core application called IMScart, a PHP & MySQL powered web application, which included several plugable modules for providing an array of possible product configurations",
+        "Worked on their core application called IMScart, a PHP & MySQL powered web application, which included several plugable modules for providing an array of possible product configurations",
         "Developed a new business to business product called Hermes, an XML-RPC driven merchandising gateway connecting reseller storefronts with product suppliers. I developed the XML-RPC driven server from scratch with PHP and MySQL."
       ]
     },
@@ -152,10 +167,10 @@
       "startDate": "2004-01-01",
       "endDate": "2005-12-31",
       "url": "https://www.instagram.com/lechateau/",
-      "summary": "Le Château Inc. was a fashion company. In my then role, I worked on developing a large scale corporate Intranet which integrated legacy systems and new web application solutions for over 300 users and 150 stores across Canada and the USA.",
+      "summary": "Le Château Inc. was a fashion company. I worked on developing a large scale corporate Intranet which integrated legacy systems and new web application solutions for over 300 users and 150 stores across Canada and the USA.",
       "highlights": [
         "Complete Intranet code audit and redesign of the application architecture.",
-        "I implemented globalisation features to the company Intranet allowing applications to work in multiple languages",
+        "Implemented globalisation features to the company Intranet allowing applications to work in multiple languages",
         "Trained developers in the application architecture",
         "Introduced source control management",
         "Implemented a coding standard to enhance our team based development environment",
@@ -166,7 +181,7 @@
     {
       "position": "Director",
       "name": "Institute for Anarchist Studies",
-      "summary": "Each year the IAS awards grants to authors promoting critical scholarship on social domination and the reconstructive vision of a free society. The IAS believes this theoretical work is of great importance to informing activist practises, just as practise inform theory. The IAS has funded over a hundred projects by authors from countries around the world, including Argentina, Canada, Chile, Ireland, Nigeria, Germany, South Africa, and the United States.",
+      "summary": "Each year the IAS awards grants to authors promoting critical scholarship on social domination and the reconstructive vision of a free society. The IAS believes this theoretical work is of great importance to informing activist practises, just as practise informs theory. The IAS has funded over a hundred projects by authors from countries around the world, including Argentina, Canada, Chile, Ireland, Nigeria, Germany, South Africa, and the United States.",
       "startDate": "2003-01-01",
       "endDate": "2003-12-31",
       "url": "https://anarchiststudies.org/",
@@ -191,7 +206,7 @@
       "position": "Software Developer",
       "startDate": "2001-01-01",
       "endDate": "2001-12-31",
-      "summary": "Project Mole was both an on and off-line project that attempts to tap into an elite group of scenesters by having them do market research for corporations around the globe. In return Moles were given access to exclusive products and events. My role on this project was the development of a flexible web-based survey system that would allow both administrators to design custom surveys and Moles to upload there research findings."
+      "summary": "Project Mole was both an on and off-line project that attempted to tap into an elite group of scenesters by having them do market research for corporations around the globe. In return Moles were given access to exclusive products and events. My role on this project was the development of a flexible web-based survey system that would allow both administrators to design custom surveys and Moles to upload there research findings."
     },
     {
       "name": "Ontario Institute PMAC - Ottawa District",
@@ -239,7 +254,7 @@
       "organization": "Refresh Annapolis Valley",
       "startDate": "2019-01-26",
       "endDate": "2019-06-01",
-      "summary": "Labs was a playground where adventurous youth builders came to build their dream technology projects. In the lab, youth work on growing and applying their skills all while pursuing the objectives of their projects.",
+      "summary": "Labs was a playground where adventurous youth builders came to construct their dream technology projects. In the lab, youth work on growing and applying their skills all while pursuing the objectives of their projects.",
       "highlights": [
         "Facilitator",
         "Educator"
@@ -247,11 +262,36 @@
       "url": "https://refreshannapolisvalley.org/project/labs/"
     },
     {
-      "position": "Creative Computing Course - Leader",
+      "position": "Hoist Annapolis Valley - Organizer",
+      "url": "https://refreshannapolisvalley.org/project/hoist/",
+      "summary": "Hoist Annapolis Valley was a tech club for teens interested in coding, design and entrepreneurship.  I organized monthly meetups, participation in competitions, developed curriculum, organized camps, and mentored youth.",
+      "startDate": "2017-03-13",
+      "endDate": "2019-12-09",
+      "highlights": [
+        "Organizer",
+        "Mentor",
+        "Educator",
+        "Facilitator"
+      ]
+    },
+    {
+      "position": "#Scratchfest - Organizer",
+      "organization": "Refresh Annapolis Valley",
+      "url": "https://refreshannapolisvalley.org/event/scratchfest-2019/",
+      "summary": "#ScratchFest was a weekend Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.",
+      "endDate": "2019-04-07",
+      "startDate": "2017-04-24",
+      "highlights": [
+        "Organizer",
+        "Facilitator"
+      ]
+    },
+    {
+      "position": "Creative Computing - Leader",
       "organization": "Refresh Annapolis Valley",
       "startDate": "2017-01-31",
       "endDate": "2019-06-30",
-      "summary": "Creative Computing was a course focused on exposing kids to the computer sciences. Broken up into 7 units, the course used the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.",
+      "summary": "Creative Computing was a course as well as a Summer camp that focused on exposing kids to the computer sciences. The course used the popular Scratch programming environment, as well as other platforms, to aid young people (aged 8 to 13) in learning the basics of software development.",
       "url": "https://refreshannapolisvalley.org/project/creative-computing/",
       "highlights": [
         "Organizer",
@@ -273,7 +313,7 @@
       "position": "Refresh Food - Organizer",
       "organization": "Refresh Annapolis Valley",
       "startDate": "2014-01-31",
-      "summary": "An incubation lab for startup ventures in the New Media space that focuses on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
+      "summary": "An incubation lab for startup ventures in the New Media space that focused on one of our greatest assets here in the Annapolis Valley: Food!\n\nFormat: 48 hours hackathon/startup weekend that pairs food-idea people with New Media builders.\n\nTarget: Rethinking the age old problems of: production, distribution, and consumption.",
       "url": "https://refreshannapolisvalley.org/project/f5-food/",
       "endDate": "2014-01-31",
       "highlights": [
@@ -290,7 +330,7 @@
         "Tech Meetups",
         "Organizer"
       ],
-      "summary": "A community of designers, developers and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
+      "summary": "A community of designers, developers, and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
       "url": "https://refreshannapolisvalley.org/"
     },
     {
@@ -298,9 +338,9 @@
       "position": "Social Ecology Speakers Bureau - Founder and Organizer",
       "startDate": "2000-06-01",
       "endDate": "2003-01-01",
-      "summary": "The Social Ecology Speakers Bureau brought together some of the most influential activists and educators working with social ecological. The SESB speakers were available for lectures and workshops, and covered a wide range of issues, including globalisation, politics and activism, biotechnology, feminism, community development, ecological design and more.",
+      "summary": "The Social Ecology Speakers Bureau brought together some of the most influential activists and educators working with social ecological. The SESB speakers were available for lectures and workshops, and covered a wide range of issues, including globalisation, politics and activism, biotechnology, feminism, community development, ecological design, and more.",
       "highlights": [
-        "Promotions (print and web)",
+        "Print and web promotions",
         "Organised several speaker tours",
         "Booked numerous individual events"
       ]
@@ -310,11 +350,11 @@
       "position": "Intern",
       "startDate": "2000-01-01",
       "endDate": "2000-05-31",
-      "summary": "The Community Arts Project was a South African organisation dedicated to providing people-centred education and training in the visual and performing arts. CAP works with youth and unemployed adults and is committed to promoting the arts for community development. Historically, CAP was integral to the anti-apartheid movement.",
+      "summary": "The Community Arts Project was a South African organisation dedicated to providing people-centred education and training in the visual and performing arts. CAP worked with youth and unemployed adults and was committed to promoting the arts for community development. Historically, CAP was integral to the anti-apartheid movement.",
       "highlights": [
         "developed print and web media to promote the organisation in general",
         "designed all promotional material for a CAP production for the 2000 Grahamstown Standard Bank National Arts Festival",
-        "devise a strategic planning process and facilitated many sessions with the staffing body in implementing it",
+        "devised a strategic planning process and facilitated many sessions with the staffing body in implementing it",
         "conducted computer literacy training with staff"
       ]
     },
@@ -342,7 +382,7 @@
         "Skill and resource identification and fulfilment",
         "Peer guidance",
         "Preparation and delivery of class lectures / guided discussions",
-        "The class drew allot of interest from the student body, resulting in the largest enrolment of any class offered. The class received good reviews from the students"
+        "The class drew a lot of interest from the student body, resulting in the largest enrolment of any class offered. The class received good reviews from the students"
       ]
     },
     {
@@ -361,7 +401,7 @@
     {
       "organization": "Librairie Alternative Bookshop",
       "position": "Collective Member",
-      "summary": "The Librairie Alternative Bookshop is collectively owned and operated, non-profit bookstore. Dating back to 1974, the bookshop grew out of the antinuclear and peace movements of the time.",
+      "summary": "The Librairie Alternative Bookshop is a collectively owned and operated non-profit bookstore. Dating back to 1974, the bookshop grew out of the antinuclear and peace movements of the time.",
       "startDate": "1997-02-01",
       "endDate": "2000-01-01",
       "highlights": [
@@ -403,8 +443,22 @@
       "url": "https://foodnotbombs.net/new_site/"
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "institution": "Dawson College",
+      "studyType": "Degree",
+      "area": "Graphic Design",
+      "startDate": "1992-09-01",
+      "endDate": "1994-12-31"
+    }
+  ],
   "awards": [
+    {
+      "title": "Agriculture Innovation Accelerator Award",
+      "summary": "The award recognizes outstanding agriculture and agri-food related innovators including producers, processors, suppliers and organizations. The award was presented to HarvestHand.",
+      "date": "2013-10-03",
+      "awarder": "Annapolis Valley Chamber of Commerce"
+    },
     {
       "title": "First Place",
       "date": "2013-11-30",
@@ -436,6 +490,11 @@
       "url": "https://www.zend-zce.com/en/yellow-pages/ZENDP001046",
       "date": "2005-04-01",
       "issuer": "Zend"
+    },
+    {
+      "name": "Software Development for the World Wide Web",
+      "date": "2001-09-01",
+      "issuer": "Concordia University"
     }
   ],
   "publications": [
@@ -598,6 +657,10 @@
     {
       "language": "English",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
@@ -608,6 +671,18 @@
         "Skateboarding",
         "Bouldering",
         "Skiing"
+      ]
+    },
+    {
+      "name": "Computer Science Education",
+      "keywords": [
+        "Scratch",
+        "Microsoft MakeCode",
+        "Processing",
+        "A-Frame",
+        "Makey Makey",
+        "BBC micro:bit",
+        "Circuit Playground"
       ]
     },
     {
@@ -690,13 +765,13 @@
     {
       "name": "Event organizer",
       "entity": "f5://imagination",
-      "description": "f5://imagination was a pop up exhibit focused on digital creativity. This one day temporary exhibit featured work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers… digital builders of all shapes, sizes, and credentials.",
+      "description": "f5://imagination was a pop up exhibit focused on digital creativity. This one day temporary exhibit featured work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineers, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers… digital builders of all shapes, sizes, and credentials.",
       "url": "https://refreshannapolisvalley.org/event/f5/imagination/",
       "startDate": "2017-12-12",
       "endDate": "2017-12-12"
     },
     {
-      "name": "face",
+      "name": "Faces",
       "entity": "f5://imagination",
       "description": "Face explored the digital eye and its ability to interact and interpret your own head.  This exhibit featured an array of laptops that syndicated your head.  Each head node would use various ML approaches to derive and display \"meaning\" from your observed face. face was presented at f5://imagination, a pop up exhibit focused on digital creativity.",
       "url": "https://refreshannapolisvalley.org/event/f5/imagination/",
@@ -710,7 +785,7 @@
     {
       "name": "Teaching a Computer To See",
       "entity": "Refresh Annapolis Valley",
-      "description": "Introductory workshop on AI, Machine Learning, and Computer Vision (for teens)",
+      "description": "Introductory workshop for teens on AI, Machine Learning, and Computer Vision",
       "url": "https://glitch.com/edit/#!/teaching-a-computer-to-see?",
       "startDate": "2017-08-17",
       "endDate": "2017-08-17",
@@ -758,6 +833,14 @@
       ]
     },
     {
+      "name": "Stomp PHP",
+      "entity": "FuseSource",
+      "url": "https://github.com/stomp-php/stomp-php",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "description": "Various contributions to this open source client which implements the STOMP protocol"
+    },
+    {
       "name": "Web Designer",
       "entity": "Azur Development",
       "description": "Azur Development was a Congolease run development organisation committed to address issues of gender equality, ecology, HIV/AIDS, and information technologies. In conjunction with Block, Street & Building, I redesigned their website to better reflect the work they do.",
@@ -787,7 +870,7 @@
         "System Administrator"
       ],
       "highlights": [
-        "Build a heavily modified version of the eZPublish 2.x CMS",
+        "Built a heavily modified version of the eZPublish 2.x CMS",
         "Home rolled email newsletter application",
         "Groupware tools such as: a calendaring system, discussion forums, articling system, a file manager, and newsletter builder"
       ],
@@ -797,14 +880,14 @@
     {
       "name": "Web Designer and System Admin",
       "entity": "Alliance for Freedom and Direct Democracy",
-      "description": "A now defunct confederation of organization working toward the advancement of directly democratic political practices. I constructed a rudimentary web-site for the organisation, as well as ran several mailing lists.",
+      "description": "A now defunct confederation of organization working towards the advancement of directly democratic political practices. I constructed a rudimentary web-site for the organisation, as well as ran several mailing lists.",
       "startDate": "2003-01-01",
       "endDate": "2003-12-31"
     },
     {
       "name": "Web Designer",
       "entity": "Benny Farm Affordable Home Ownership Initiative",
-      "description": "Les Habitations Communautaires NDG (HCNDG) and Les Habitations Sherbrooke Forest (HSF) are two affiliated non- profit community-housing organisations who have played an important role in providing affordable housing to the Notre-Dame-de-Grâce neighbourhood in the west end of Montreal. I designed their website that was a crucial tool in their bid to create affordable homes at Benny Farm.",
+      "description": "Les Habitations Communautaires NDG (HCNDG) and Les Habitations Sherbrooke Forest (HSF) are two affiliated non-profit community-housing organisations who have played an important role in providing affordable housing to the Notre-Dame-de-Grâce neighbourhood in the west end of Montreal. I designed their website that was a crucial tool in their bid to create affordable homes at Benny Farm.",
       "startDate": "2002-02-01",
       "endDate": "2002-04-01",
       "roles": [
@@ -834,7 +917,7 @@
         "System Administrator"
       ],
       "highlights": [
-        "Built dynamic web components include a calendar, discussion forums, and a monthly newsletter all built by myself in PHP with MySQL.",
+        "Built dynamic web components including a calendar, discussion forums, and a monthly newsletter all built by myself in PHP with MySQL.",
         "Email list management with MHonArc, Mailman, mnoGoSearch, Postfix",
         "freeBSD"
       ]
@@ -887,8 +970,7 @@
       "startDate": "2000-01-01",
       "endDate": "2003-12-31",
       "highlights": [
-        "Wrote custom guest book in PHP / MySQL (remember those?)",
-        ""
+        "Wrote a custom guest book in PHP / MySQL (remember those?)"
       ]
     },
     {
@@ -918,7 +1000,7 @@
       "entity": "Left Green Perspectives",
       "startDate": "1999-01-01",
       "endDate": "1999-12-31",
-      "description": "Left Green Perspectives was an sporadic publication of the Social Ecology Project spearheaded by American intellectuals Murray Bookchin and Janet Biehl. The goal of this project was to provide an on-line archive of past issues. This web site was one of my first.",
+      "description": "Left Green Perspectives was a sporadic publication of the Social Ecology Project spearheaded by American intellectuals Murray Bookchin and Janet Biehl. The goal of this project was to provide an on-line archive of past issues. This web site was one of my first.",
       "roles": [
         "Web Designer"
       ]
