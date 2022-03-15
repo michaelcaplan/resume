@@ -263,6 +263,7 @@
     },
     {
       "position": "Hoist Annapolis Valley - Organizer",
+      "organization": "Refresh Annapolis Valley",
       "url": "https://refreshannapolisvalley.org/project/hoist/",
       "summary": "Hoist Annapolis Valley was a tech club for teens interested in coding, design and entrepreneurship.  I organized monthly meetups, participation in competitions, developed curriculum, organized camps, and mentored youth.",
       "startDate": "2017-03-13",
@@ -730,7 +731,7 @@
       "startDate": "2019-05-14",
       "endDate": "2019-05-14",
       "url": "https://refreshannapolisvalley.org/event/innovating-on-the-internet/",
-      "description": "Workshop that explored pre-product prototype design tools to express their app ideas.",
+      "description": "Workshop that explored pre-product prototype design tools to express app ideas.",
       "highlights": [
         "Entrepreneurship",
         "Prototyping",
