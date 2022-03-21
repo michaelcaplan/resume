@@ -6,9 +6,9 @@
     "resume-cli": "^3.0.6"
   },
   "scripts": {
-    "start": "./node_modules/.bin/resume serve -r dist/resume.json -t jsonresume-theme-elegant",
+    "start": "./node_modules/.bin/resume serve -r resume.json -t jsonresume-theme-elegant",
     "build": "npm run build:html & npm run build:lite",
-    "build:html": "./node_modules/.bin/resume export dist/index.html -r dist/resume.json -t jsonresume-theme-elegant",
-    "build:lite": "./node_modules/.bin/resume export resume.html -r dist/resume-lite.json -t jsonresume-theme-onepage-plus; ./node_modules/.bin/puppeteer --wait-until networkidle0  --margin-top 40px --margin-right 40px --margin-bottom 40px --margin-left 40px --format letter print resume.html dist/resume.pdf; rm resume.html"
+    "build:html": "./node_modules/.bin/resume export index.html -r resume.json -t jsonresume-theme-elegant",
+    "build:lite": "./node_modules/.bin/resume export resume.html -r resume-lite.json -t jsonresume-theme-onepage-plus; ./node_modules/.bin/puppeteer --wait-until networkidle0  --margin-top 40px --margin-right 40px --margin-bottom 40px --margin-left 40px --format letter print resume.html resume.pdf; rm resume.html"
   }
 }
