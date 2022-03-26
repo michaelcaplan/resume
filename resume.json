@@ -247,6 +247,124 @@
       ]
     }
   ],
+  "skills": [
+    {
+      "name": "Frontend Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML5",
+        "CSS2+",
+        "jQuery",
+        "Vue.js",
+        "React",
+        "Bootstrap",
+        "Javascript",
+        "ECMAScript 2021"
+      ]
+    },
+    {
+      "name": "Back End Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "PHP",
+        "Zend Certified Engineer",
+        "Zend Framework",
+        "Node.js",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Web Applications Systems Architect and Administrator",
+      "level": "Advanced",
+      "keywords": [
+        "Ubuntu Server",
+        "CentOS",
+        "MySQL",
+        "MariaDB",
+        "Elasticsearch",
+        "Firebase Cloud Firestore",
+        "Apache HTTP Server",
+        "NGINX",
+        "Apache ActiveMQ",
+        "Zabbix Monitoring",
+        "OSSEC - Server Intrusion Detection",
+        "Wazuh - Open Source Security Platform",
+        "Ansible - Configuration Management",
+        "Client-Server",
+        "Multitiered Architecture",
+        "Event Driven",
+        "REST",
+        "Shared Nothing"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Requirements gathering",
+        "Software architecture",
+        "Data design - ER modeling",
+        "Interface design",
+        "Design patterns",
+        "Unit Testing",
+        "Integration Testing"
+      ]
+    },
+    {
+      "name": "Software Development Lifecycle",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Jira",
+        "Bitbucket",
+        "Kanban",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Software Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Design Thinking",
+        "User Research - Personas",
+        "Wireframing",
+        "Prototyping",
+        "Balsamiq",
+        "A/B Testing",
+        "End User Functional Testing"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "Intermediate",
+      "keywords": [
+        "Lean Canvas",
+        "Minimal viable product",
+        "Continuous deployment"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Adobe Pagemaker",
+        "Adobe InDesign",
+        "Scribus",
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Intermediate",
+      "keywords": [
+        "Content development",
+        "Press releases",
+        "Email",
+        "Social media",
+        "SEO"
+      ]
+    }
+  ],
   "volunteer": [
     {
       "position": "Labs - Facilitator",
@@ -443,261 +561,6 @@
       "url": "https://foodnotbombs.net/new_site/"
     }
   ],
-  "education": [
-    {
-      "institution": "Dawson College",
-      "studyType": "Degree",
-      "area": "Graphic Design",
-      "startDate": "1992-09-01",
-      "endDate": "1994-12-31"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Agriculture Innovation Accelerator Award",
-      "summary": "The award recognizes outstanding agriculture and agri-food related innovators including producers, processors, suppliers and organizations. The award was presented to HarvestHand.",
-      "date": "2013-10-03",
-      "awarder": "Annapolis Valley Chamber of Commerce"
-    },
-    {
-      "title": "First Place",
-      "date": "2013-11-30",
-      "awarder": "Halifax Startup Weekend",
-      "summary": "An event that brings entrepreneurial-minded people from different backgrounds and professions together to develop innovative start-ups in 54 hours."
-    },
-    {
-      "title": "Third Place",
-      "date": "2017-03-24",
-      "awarder": "Hacking Health Halifax",
-      "summary": "A weekend-long hackathon that breaks down barriers to healthcare innovation by bringing together IT and healthcare professionals to collaborate, dream up & design apps, devices and solutions for patient-centric care."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "UX Foundation Bootcamp",
-      "issuer": "Digital Nova Scotia",
-      "url": "https://digitalnovascotia.com/event/ux-fundamentals-april-7-16/",
-      "date": "2020-04-16"
-    },
-    {
-      "name": "Zend Certified Engineer: PHP 5",
-      "url": "https://www.zend-zce.com/en/yellow-pages/ZEND006870",
-      "date": "2008-01-07",
-      "issuer": "Zend"
-    },
-    {
-      "name": "Zend Certified Engineer: PHP 4",
-      "url": "https://www.zend-zce.com/en/yellow-pages/ZENDP001046",
-      "date": "2005-04-01",
-      "issuer": "Zend"
-    },
-    {
-      "name": "Software Development for the World Wide Web",
-      "date": "2001-09-01",
-      "issuer": "Concordia University"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Don’t Forget to Flush",
-      "url": "https://web.archive.org/web/20090122143628/http://www.eggplant.ws/blog/php/dont-forget-to-flush/",
-      "publisher": "Self published",
-      "releaseDate": "2009-01-04"
-    },
-    {
-      "name": "Mayday, Mayday, Mayday - PHP Going Down",
-      "url": "https://web.archive.org/web/20090207023925/http://www.eggplant.ws/blog/php/mayday-php-going-down/",
-      "publisher": "Self published",
-      "releaseDate": "2008-08-24"
-    },
-    {
-      "name": "Leveraging Omnis within a Heterogeneous Environment through Remote Studio",
-      "url": "https://labnet.bitbucket.io/2008/08/26/leveraging-omnis-within-a-heterogeneous-environment-through-remote-studio/",
-      "publisher": "Omnis Central",
-      "releaseDate": "2008-08-26"
-    },
-    {
-      "name": "Radical Alternatives: An Interview with Ingrid Young",
-      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-radical-alternatives-an-interview-with-ingrid-young/",
-      "publisher": "Harbinger Vol. 3 No. 1",
-      "releaseDate": "2003-03-20"
-    },
-    {
-      "name": "Education & Community Action: A History of the Institute for Social Ecology’s Programs",
-      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-education-community-action-a-history-of-the-institute-for-social-ecology%e2%80%99s-programs/",
-      "publisher": "Harbinger Vol. 3 No. 1",
-      "releaseDate": "2003-03-20"
-    },
-    {
-      "name": "The Oromo and the Ethiopian Empire State; An interview with Amaan",
-      "url": "https://social-ecology.org/wp/2001/10/harbinger-vol-2-no-1-the-oromo-and-the-ethiopian-empire-state-an-interview-with-amaan/",
-      "publisher": "Harbinger Vol. 2 No. 1",
-      "releaseDate": "2001-03-20"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Frontend Web Development",
-      "level": "Advanced",
-      "keywords": [
-        "HTML5",
-        "CSS2+",
-        "jQuery",
-        "Vue.js",
-        "React",
-        "Bootstrap",
-        "Javascript",
-        "ECMAScript 2021"
-      ]
-    },
-    {
-      "name": "Back End Web Development",
-      "level": "Advanced",
-      "keywords": [
-        "PHP",
-        "Zend Certified Engineer",
-        "Zend Framework",
-        "Node.js",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Web Applications Systems Architect and Administrator",
-      "level": "Advanced",
-      "keywords": [
-        "Ubuntu Server",
-        "CentOS",
-        "MySQL",
-        "MariaDB",
-        "Elasticsearch",
-        "Firebase Cloud Firestore",
-        "Apache HTTP Server",
-        "NGINX",
-        "Apache ActiveMQ",
-        "Zabbix Monitoring",
-        "OSSEC - Server Intrusion Detection",
-        "Wazuh - Open Source Security Platform",
-        "Ansible - Configuration Management",
-        "Client-Server",
-        "Multitiered Architecture",
-        "Event Driven",
-        "REST",
-        "Shared Nothing"
-      ]
-    },
-    {
-      "name": "Software Engineering",
-      "level": "Advanced",
-      "keywords": [
-        "Requirements gathering",
-        "Software architecture",
-        "Data design - ER modeling",
-        "Interface design",
-        "Design patterns",
-        "Unit Testing",
-        "Integration Testing"
-      ]
-    },
-    {
-      "name": "Software Development Lifecycle",
-      "level": "Advanced",
-      "keywords": [
-        "Git",
-        "Jira",
-        "Bitbucket",
-        "Kanban",
-        "Agile"
-      ]
-    },
-    {
-      "name": "Software Design",
-      "level": "Intermediate",
-      "keywords": [
-        "Design Thinking",
-        "User Research - Personas",
-        "Wireframing",
-        "Prototyping",
-        "Balsamiq",
-        "A/B Testing",
-        "End User Functional Testing"
-      ]
-    },
-    {
-      "name": "Entrepreneurship",
-      "level": "Intermediate",
-      "keywords": [
-        "Lean Canvas",
-        "Minimal viable product",
-        "Continuous deployment"
-      ]
-    },
-    {
-      "name": "Graphic Design",
-      "level": "Intermediate",
-      "keywords": [
-        "Adobe Pagemaker",
-        "Adobe InDesign",
-        "Scribus",
-        "Inkscape"
-      ]
-    },
-    {
-      "name": "Digital Marketing",
-      "level": "Intermediate",
-      "keywords": [
-        "Content development",
-        "Press releases",
-        "Email",
-        "Social media",
-        "SEO"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker"
-    },
-    {
-      "language": "French",
-      "fluency": "Beginner"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "keywords": [
-        "Running",
-        "Skateboarding",
-        "Bouldering",
-        "Skiing"
-      ]
-    },
-    {
-      "name": "Computer Science Education",
-      "keywords": [
-        "Scratch",
-        "Microsoft MakeCode",
-        "Processing",
-        "A-Frame",
-        "Makey Makey",
-        "BBC micro:bit",
-        "Circuit Playground"
-      ]
-    },
-    {
-      "name": "Residential Construction",
-      "keywords": [
-        "Architectural design",
-        "Drywall",
-        "Framing",
-        "Plumbing",
-        "Electrical wiring",
-        "Home renovations"
-      ]
-    }
-  ],
-  "references": [],
   "projects": [
     {
       "name": "Elev8",
@@ -1016,6 +879,143 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Agriculture Innovation Accelerator Award",
+      "summary": "The award recognizes outstanding agriculture and agri-food related innovators including producers, processors, suppliers and organizations. The award was presented to HarvestHand.",
+      "date": "2013-10-03",
+      "awarder": "Annapolis Valley Chamber of Commerce"
+    },
+    {
+      "title": "First Place",
+      "date": "2013-11-30",
+      "awarder": "Halifax Startup Weekend",
+      "summary": "An event that brings entrepreneurial-minded people from different backgrounds and professions together to develop innovative start-ups in 54 hours."
+    },
+    {
+      "title": "Third Place",
+      "date": "2017-03-24",
+      "awarder": "Hacking Health Halifax",
+      "summary": "A weekend-long hackathon that breaks down barriers to healthcare innovation by bringing together IT and healthcare professionals to collaborate, dream up & design apps, devices and solutions for patient-centric care."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "UX Foundation Bootcamp",
+      "issuer": "Digital Nova Scotia",
+      "url": "https://digitalnovascotia.com/event/ux-fundamentals-april-7-16/",
+      "date": "2020-04-16"
+    },
+    {
+      "name": "Zend Certified Engineer: PHP 5",
+      "url": "https://www.zend-zce.com/en/yellow-pages/ZEND006870",
+      "date": "2008-01-07",
+      "issuer": "Zend"
+    },
+    {
+      "name": "Zend Certified Engineer: PHP 4",
+      "url": "https://www.zend-zce.com/en/yellow-pages/ZENDP001046",
+      "date": "2005-04-01",
+      "issuer": "Zend"
+    },
+    {
+      "name": "Software Development for the World Wide Web",
+      "date": "2001-09-01",
+      "issuer": "Concordia University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Don’t Forget to Flush",
+      "url": "https://web.archive.org/web/20090122143628/http://www.eggplant.ws/blog/php/dont-forget-to-flush/",
+      "publisher": "Self published",
+      "releaseDate": "2009-01-04"
+    },
+    {
+      "name": "Mayday, Mayday, Mayday - PHP Going Down",
+      "url": "https://web.archive.org/web/20090207023925/http://www.eggplant.ws/blog/php/mayday-php-going-down/",
+      "publisher": "Self published",
+      "releaseDate": "2008-08-24"
+    },
+    {
+      "name": "Leveraging Omnis within a Heterogeneous Environment through Remote Studio",
+      "url": "https://labnet.bitbucket.io/2008/08/26/leveraging-omnis-within-a-heterogeneous-environment-through-remote-studio/",
+      "publisher": "Omnis Central",
+      "releaseDate": "2008-08-26"
+    },
+    {
+      "name": "Radical Alternatives: An Interview with Ingrid Young",
+      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-radical-alternatives-an-interview-with-ingrid-young/",
+      "publisher": "Harbinger Vol. 3 No. 1",
+      "releaseDate": "2003-03-20"
+    },
+    {
+      "name": "Education & Community Action: A History of the Institute for Social Ecology’s Programs",
+      "url": "https://social-ecology.org/wp/2002/09/harbinger-vol-3-no-1-education-community-action-a-history-of-the-institute-for-social-ecology%e2%80%99s-programs/",
+      "publisher": "Harbinger Vol. 3 No. 1",
+      "releaseDate": "2003-03-20"
+    },
+    {
+      "name": "The Oromo and the Ethiopian Empire State; An interview with Amaan",
+      "url": "https://social-ecology.org/wp/2001/10/harbinger-vol-2-no-1-the-oromo-and-the-ethiopian-empire-state-an-interview-with-amaan/",
+      "publisher": "Harbinger Vol. 2 No. 1",
+      "releaseDate": "2001-03-20"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dawson College",
+      "studyType": "Degree",
+      "area": "Graphic Design",
+      "startDate": "1992-09-01",
+      "endDate": "1994-12-31"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Running",
+        "Skateboarding",
+        "Bouldering",
+        "Skiing"
+      ]
+    },
+    {
+      "name": "Computer Science Education",
+      "keywords": [
+        "Scratch",
+        "Microsoft MakeCode",
+        "Processing",
+        "A-Frame",
+        "Makey Makey",
+        "BBC micro:bit",
+        "Circuit Playground"
+      ]
+    },
+    {
+      "name": "Residential Construction",
+      "keywords": [
+        "Architectural design",
+        "Drywall",
+        "Framing",
+        "Plumbing",
+        "Electrical wiring",
+        "Home renovations"
+      ]
+    }
+  ],
+  "references": [],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
