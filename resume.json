@@ -47,6 +47,10 @@
         "url": "https://www.linkedin.com/in/michael-caplan-40b37a1/"
       },
       {
+        "network": "Gemini",
+        "url": "gemini://michaelcaplan.com/"
+      },
+      {
         "network": "Facebook",
         "username": "michaelisraelcaplan",
         "url": "https://www.facebook.com/michaelisraelcaplan"
@@ -562,6 +566,18 @@
     }
   ],
   "projects": [
+    {
+      "name": "jsonresume-gemini",
+      "entity": "Personal project",
+      "description": "jsonresume-gemini is a single purpose server implementation of the Gemini protocol: server up your JSON Resume over the Gemini protocol",
+      "startDate": "2022-03-24",
+      "endDate": "2022-03-24",
+      "url": "https://github.com/michaelcaplan/jsonresume-gemini",
+      "highlights": [
+        "Gemini protocol implementation",
+        "Dynamic server side generation of text/gemini"
+      ]
+    },
     {
       "name": "Elev8",
       "entity": "Acadia Entrepreneurship Centre",
