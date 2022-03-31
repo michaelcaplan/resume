@@ -688,6 +688,19 @@
       ]
     },
     {
+      "name": "Web Developer",
+      "entity": "Nathanson Seaman Watts - Law Firm",
+      "description": "NSW is a multi-practice law firm. I consulted with the firm on establishing their first website, coordinated content development, worked with a designer to establish a general design direction, implemented a custom WordPress theme, provided basic CMS training, and deployed.",
+      "url": "https://24webster.com/",
+      "startDate": "2014-04-01",
+      "endDate": "2015-06-01",
+      "highlights": [
+        "WordPress",
+        "Theme development",
+        "Information Architecture"
+      ]
+    },
+    {
       "name": "Hax0r Pwn3d? n00b Guide to Web App Security",
       "entity": "Refresh Annapolis Valley",
       "description" : "In this talk I reviewed top 10 web application security risks, how they work, and how you can defend your web properties against them.",
