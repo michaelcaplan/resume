@@ -604,6 +604,32 @@
       "description": "Little utility that displays an instagram profile's posts ordered by likes"
     },
     {
+      "name": "National Ladies Learning Code Day: Intro to UX Design",
+      "entity": "Refresh Annapolis Valley",
+      "startDate": "2019-09-21",
+      "endDate": "2019-09-21",
+      "url": "https://refreshannapolisvalley.org/event/national-learn-to-code-day-intro-to-user-experience-design/",
+      "description": "Organizer and mentor for a co-sponsored event between Acadia University, Refresh Annapolis Valley, and  Acadia Women in Technology Society (WITS).  Worked with the WITS student group to develop their capacity to take the lead on teaching the workshop.",
+      "highlights": [
+        "UX",
+        "Mentor",
+        "Organizer",
+        "Training of trainers"
+      ]
+    },
+    {
+      "name": "Opening Doors Between Tech & Education",
+      "entity": "Digital Nova Scotia",
+      "startDate": "2019-05-03",
+      "endDate": "2019-05-03",
+      "url": "https://docs.google.com/presentation/d/e/2PACX-1vSyH0PmFxRDEEunonbcr3HM7Z1PfLG4JsMwmdt0WYypyITU-vGbanQK1G_Dul-SfzedDH7_rzUYoRzy/pub?start=true&loop=true&delayms=3000",
+      "description": "Opening Doors program is designed to provide resources for educators from the Tech industry. In this talk I explored the data on how we are failing girls despite curricular reforms in Computer Science education, and possible remedies.",
+      "highlights": [
+        "Women in STEM",
+        "Computer Science Education"
+      ]
+    },
+    {
       "name": "Innovating on The Internet",
       "entity": "Refresh Annapolis Valley",
       "startDate": "2019-05-14",
@@ -628,6 +654,20 @@
         "3D printing and entrepreneurial innovation",
         "Designing for 3D printing",
         "From design to print"
+      ]
+    },
+    {
+      "name": "National Ladies Learning Code Day: Intro to Browser Extensions with JavaScript",
+      "entity": "Refresh Annapolis Valley",
+      "startDate": "2018-09-22",
+      "endDate": "2018-09-22",
+      "url": "https://refreshannapolisvalley.org/event/national-learn-to-code-day-browser-extensions/",
+      "description": "Organizer and mentor for a co-sponsored event between Acadia University, Refresh Annapolis Valley, and Women in Science and Engineering (WISE) at Acadia.  Worked with the then WISE student group to develop their capacity to take the lead on teaching the workshop.",
+      "highlights": [
+        "Javascript",
+        "Mentor",
+        "Organizer",
+        "Training of trainers"
       ]
     },
     {
@@ -659,6 +699,21 @@
       "highlights": [
         "Machine learning",
         "webRTC"
+      ]
+    },
+    {
+      "name": "National Ladies Learning Code Day: Intro to AI and Machine Learning",
+      "entity": "Refresh Annapolis Valley",
+      "startDate": "2017-09-23",
+      "endDate": "2017-09-23",
+      "url": "https://refreshannapolisvalley.org/event/national-learn-to-code-day-intro-to-ai-and-machine-learning/",
+      "description": "Organizer and mentor for a co-sponsored event between Acadia University, Refresh Annapolis Valley, and Women in Science and Engineering (WISE) at Acadia.  Worked with the then WISE student group to develop their capacity to take the lead on teaching the workshop.",
+      "highlights": [
+        "AI",
+        "Machine learning",
+        "Mentor",
+        "Organizer",
+        "Training of trainers"
       ]
     },
     {
