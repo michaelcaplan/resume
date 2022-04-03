@@ -7,8 +7,9 @@
   },
   "scripts": {
     "start": "./node_modules/.bin/resume serve -r resume.json -t jsonresume-theme-elegant",
+    "start:lite": "./node_modules/.bin/resume serve -r resume-lite.json -t jsonresume-theme-onepage-plus",
     "build": "npm run build:html & npm run build:lite",
     "build:html": "./node_modules/.bin/resume export index.html -r resume.json -t jsonresume-theme-elegant",
-    "build:lite": "./node_modules/.bin/resume export resume.html -r resume-lite.json -t jsonresume-theme-onepage-plus; ./node_modules/.bin/puppeteer --wait-until networkidle0  --margin-top 40px --margin-right 40px --margin-bottom 40px --margin-left 40px --format letter print resume.html resume.pdf; rm resume.html"
+    "build:lite": "./node_modules/.bin/resume export resume.html -r resume-lite.json -t jsonresume-theme-onepage-plus; ./node_modules/.bin/puppeteer --wait-until networkidle0  --margin-top 40px --margin-right 40px --margin-bottom 40px --margin-left 40px --format letter print resume.html resume-all.pdf; rm resume.html; pdftk resume-all.pdf cat 1-3 output resume.pdf; rm resume-all.pdf"
   }
 }

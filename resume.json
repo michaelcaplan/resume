@@ -75,9 +75,9 @@
       "highlights": [
         "Hired as the founding Software Engineer for the product Digital Dental Exchange (DDX)",
         "Architected and engineered the DDX platform, which acts as a key component in clinical workflows integrating a large ecosystem of technology partners",
-        "Scaled the DDX platform to service several geographic regions",
+        "Scaled the DDX platform to service several geographic regions and a customer base over 100K",
         "Defined a new class of SaaS Dental Lab Management Software - Labnext",
-        "Built our engineering team and processes",
+        "Built a diverse engineering team and our SDLC",
         "Engineering team reported the highest job satisfaction across all of Henry Schein One (2021)"
       ],
       "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems; with solutions suited for labs of all sizes and budgets.",
@@ -100,10 +100,10 @@
     },
     {
       "name": "Mom & Pop Media",
-      "position": "Founder and Software Developer",
+      "position": "Founder",
       "startDate": "2000-12-31",
       "endDate": "2007-12-31",
-      "summary": "Working under the name Mom & Pop Media, I started my freelance web and print design consultancy upon return from my stay in South Africa in 2000.",
+      "summary": "Working under the name Mom & Pop Media, I started my freelance web and print design and development consultancy upon return from my stay in South Africa in 2000.",
       "highlights": [
         "Web and email hosting services",
         "Web design and web-site maintenance",
@@ -129,7 +129,7 @@
       "endDate": "2006-12-31",
       "summary": "High-Touch Communications is a leading North American branding + web firm, offering its pièce de résistance web platform called IgnitionWeb. I was hired by HTC the summer of 2005 as Senior Programmer, where I was responsible for heading programming and the programming team.",
       "highlights": [
-        "Overseeing the development and deployment of IgnitionWeb 3.4 – a major milestone release including WYSIWYG content editing, as well as major code and SQL performance optimisations",
+        "Overseeing the development and deployment of IgnitionWeb 3.4 – a major milestone release including WYSIWYG content editing, as well as significant code and SQL performance optimisations",
         "Auditing Unisource.ca, a multi-million dollar B2B web site, for performance bottlenecks and implementing sweeping code and database performance optimisations",
         "Integration of IgnitionWeb for several clients including Dynaflair Corporation, Trueline Valve Corporation, JC-TL, and JC Fábrica de Válvulas",
         "Migration of CVS + Bugzilla source control management system to Subversion + Trac",
@@ -322,7 +322,9 @@
         "Jira",
         "Bitbucket",
         "Kanban",
-        "Agile"
+        "Agile",
+        "QA",
+        "CI / CD"
       ]
     },
     {

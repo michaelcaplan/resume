@@ -23,7 +23,15 @@
       "startDate": "2006-09-30",
       "summary": "The Labnet Dental Lab Systems division of Henry Schein One offers the Dental Lab industry’s most comprehensive and powerful management systems; with solutions suited for labs of all sizes and budgets.",
       "url": "https://henryscheinone.com/",
-      "location": "Wolfville, NS, CA"
+      "location": "Wolfville, NS, CA",
+      "highlights": [
+        "Hired as the founding Software Engineer for the product Digital Dental Exchange (DDX)",
+        "Architected and engineered the DDX platform, which acts as a key component in clinical workflows integrating a large ecosystem of technology partners",
+        "Scaled the DDX platform to service several geographic regions and a customer base over 100K",
+        "Defined a new class of SaaS Dental Lab Management Software - Labnext",
+        "Built a diverse engineering team and our SDLC",
+        "Engineering team reported the highest job satisfaction across all of Henry Schein One (2021)"
+      ]
     },
     {
       "name": "HarvestHand",
@@ -31,14 +39,19 @@
       "startDate": "2010-12-31",
       "endDate": "2019-12-31",
       "summary": "HarvestHand was an Internet platform for Community Shared Agriculture (CSA) businesses to communicate with and manage their community of members.",
-      "location": "Port Williams, NS, CA"
+      "location": "Port Williams, NS, CA",
+      "highlights": [
+        "Technology founder & primary software engineer",
+        "Scaled business and technology platform to service regional farms",
+        "Winner of the inaugural Agriculture Innovation Accelerator Award"
+      ]
     },
     {
       "name": "Mom & Pop Media",
-      "position": "Founder and Software Developer",
+      "position": "Founder",
       "startDate": "2000-12-31",
       "endDate": "2007-12-31",
-      "summary": "Working under the name Mom & Pop Media, I started my freelance web and print design consultancy upon return from my stay in South Africa in 2000.",
+      "summary": "Working under the name Mom & Pop Media, I started my freelance web and print design and development consultancy upon return from my stay in South Africa in 2000.",
       "location": "Montréal and NS, CA"
     },
     {
@@ -48,7 +61,13 @@
       "endDate": "2006-12-31",
       "summary": "High-Touch Communications is a leading North American branding + web firm, offering its pièce de résistance web platform called IgnitionWeb.",
       "url": "https://www.htc.ca/",
-      "location": "Montréal, QC, CA"
+      "location": "Montréal, QC, CA",
+      "highlights": [
+        "Overseeing the development and deployment of IgnitionWeb 3.4 – a major milestone release including WYSIWYG content editing, as well as significant code and SQL performance optimisations",
+        "Auditing Unisource.ca, a multi-million dollar B2B web site, for performance bottlenecks and implementing sweeping code and database performance optimisations",
+        "IgnitionWeb 3.x and 4.x development roadmap",
+        "Development of Quality Assurance program"
+      ]
     },
     {
       "name": "Le Château",
@@ -57,13 +76,20 @@
       "endDate": "2005-12-31",
       "url": "https://www.instagram.com/lechateau/",
       "summary": "Le Château Inc. was a fashion company. I worked on developing a large scale corporate Intranet which integrated legacy systems and new web application solutions for over 300 users and 150 stores across Canada and the USA.",
-      "location": "Montréal, QC, CA"
+      "location": "Montréal, QC, CA",
+      "highlights": [
+        "Complete Intranet code audit and redesign of the application architecture.",
+        "Implemented globalisation features to the company Intranet allowing applications to work in multiple languages",
+        "Trained developers in the application architecture",
+        "Introduced source control management",
+        "Implemented a coding standard to enhance our team based development environment"
+      ]
     }
   ],
   "volunteer": [
     {
-      "position": "Hoist Annapolis Valley - Organizer",
-      "organization": "Refresh Annapolis Valley",
+      "position": "Hoist - Organizer",
+      "organization": "Refresh AV",
       "url": "https://refreshannapolisvalley.org/project/hoist/",
       "summary": "Hoist Annapolis Valley was a tech club for teens interested in coding, design and entrepreneurship.  I organized monthly meetups, participation in competitions, developed curriculum, organized camps, and mentored youth.",
       "startDate": "2017-03-13",
@@ -71,7 +97,7 @@
     },
     {
       "position": "#Scratchfest - Organizer",
-      "organization": "Refresh Annapolis Valley",
+      "organization": "Refresh AV",
       "url": "https://refreshannapolisvalley.org/event/scratchfest-2019/",
       "summary": "#ScratchFest was a weekend Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.",
       "endDate": "2019-04-07",
@@ -79,18 +105,18 @@
     },
     {
       "position": "Creative Computing - Leader",
-      "organization": "Refresh Annapolis Valley",
+      "organization": "Refresh AV",
       "startDate": "2017-01-31",
       "endDate": "2019-06-30",
-      "summary": "Creative Computing was a course as well as a Summer camp that focused on exposing kids to the computer sciences. The course used the popular Scratch programming environment, as well as other platforms, to aid young people (aged 8 to 13) in learning the basics of software development.",
+      "summary": "Creative Computing was a course as well as a camp that focused on exposing kids to the computer sciences. The course used the popular Scratch programming environment, as well as other platforms, to aid kids, with emphasis on underserved groups, in learning the basics of software development.",
       "url": "https://refreshannapolisvalley.org/project/creative-computing/"
     },
     {
       "organization": "Refresh Annapolis Valley",
-      "position": "Founder and Organizational Crew",
+      "position": "Founder",
       "startDate": "2012-12-31",
       "endDate": "2020-12-31",
-      "summary": "A community of designers, developers, and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.",
+      "summary": "A community of designers, developers, and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship. Hosting meetups and special events.",
       "url": "https://refreshannapolisvalley.org/"
     }
   ],
@@ -143,7 +169,7 @@
       "issuer": "Zend"
     },
     {
-      "name": "Software Development for the World Wide Web",
+      "name": "Software Development for the WWW",
       "date": "2001-09-01",
       "issuer": "Concordia University"
     }
@@ -158,9 +184,7 @@
         "jQuery",
         "Vue.js",
         "React",
-        "Bootstrap",
-        "Javascript",
-        "ECMAScript 2021"
+        "Javascript"
       ]
     },
     {
@@ -179,8 +203,6 @@
       "level": "Advanced",
       "keywords": [
         "Ubuntu Server",
-        "CentOS",
-        "MySQL",
         "MariaDB",
         "Elasticsearch",
         "Firebase Cloud Firestore",
@@ -188,9 +210,9 @@
         "NGINX",
         "Apache ActiveMQ",
         "Zabbix Monitoring",
-        "OSSEC - Server Intrusion Detection",
-        "Wazuh - Open Source Security Platform",
-        "Ansible - Configuration Management",
+        "OSSEC",
+        "Wazuh",
+        "Ansible",
         "Client-Server",
         "Multitiered Architecture",
         "Event Driven",
@@ -219,7 +241,9 @@
         "Jira",
         "Bitbucket",
         "Kanban",
-        "Agile"
+        "Agile",
+        "QA",
+        "CI / CD"
       ]
     },
     {
