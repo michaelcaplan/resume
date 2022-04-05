@@ -324,7 +324,9 @@
         "Kanban",
         "Agile",
         "QA",
-        "CI / CD"
+        "Code Reviews",
+        "Mentoring",
+        "Project Management"
       ]
     },
     {
@@ -1103,9 +1105,9 @@
   ],
   "references": [],
   "meta": {
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "elegant",
-    "lastModified": "2022-03-13"
+    "theme": "github:michaelcaplan/jsonresume-theme-elegant",
+    "lastModified": "2022-04-05"
   }
 }
